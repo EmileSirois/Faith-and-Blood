@@ -26,11 +26,7 @@ La force détermine le dégât effectué en combat avec les attaques de mêlée,
 
 ### Agilité:
 
-L’agilité détermine l’efficacité de l’Action de mouvement (distance parcourue), la capacité à éviter les attaques ennemies, l’ordre du combat (vigilance/réflexes), la chance de toucher avec les armes légères, cachées et à distance et les compétences associées avec l’agilité.
-
-### Santé et Santé mentale:
-
-Tous les personnages auront un nombre de points de vie déterminé par leur caractéristique de Constitution et un nombre de points de santé mentale déterminé par leur caractéristique de Volonté. La volonté permet aussi aux Magus de résister à certains effets mentaux négatifs et de mieux réussir leurs tests de santé mentale.
+L’agilité détermine le dégât effectué en combat avec els armes à distance, la chance de toucher avec les armes légères, cachées et à distance, l’efficacité de l’Action de mouvement (distance parcourue), la capacité à éviter les attaques ennemies, l’ordre du combat (vigilance/réflexes) et les compétences associées avec l’agilité.
 
 ### Intelligence:
 
@@ -39,3 +35,11 @@ L’intelligence détermine les connaissances du personnage, qu'elles soient mys
 ### Foi:
 
 La foi d’un magus lui permet de passer par les plus difficiles épreuves, et sera bien souvent testée lorsque confrontée aux horreurs les plus immondes. La foi détermine la puissance des rituels et le nombre de rituels appris, ainsi que leur longueur. De plus, elle détermine les compétences associées associées avec la foi.
+
+### Constitution et Volonté:
+
+La constitution et la Volonté n'ont pas de _skill_ reliés à leur valeur, mais déterminent respectivement Les points de vie et la santée mentale d'un personnage. Cependant, de nombreuses attaques et effets en combat demanderont un _roll_ de Constitution ou de volonté afin de résister un effet ou un _debuff_.
+
+### Santé et Santé mentale:
+
+Tous les personnages auront un nombre de points de vie déterminé par leur caractéristique de Constitution et un nombre de points de santé mentale déterminé par leur caractéristique de Volonté. La volonté permet aussi aux Magus de résister à certains effets mentaux négatifs et de mieux réussir leurs tests de santé mentale.
