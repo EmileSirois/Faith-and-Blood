@@ -1,3 +1,3 @@
 ## Character Rules
 
-goubidubois
+grubule
