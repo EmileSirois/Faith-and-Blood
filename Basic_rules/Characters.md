@@ -43,3 +43,7 @@ La constitution et la Volonté n'ont pas de _skill_ reliés à leur valeur, mais
 ### Santé et Santé mentale:
 
 Tous les personnages auront un nombre de points de vie déterminé par leur caractéristique de Constitution et un nombre de points de santé mentale déterminé par leur caractéristique de Volonté. La volonté permet aussi aux Magus de résister à certains effets mentaux négatifs et de mieux réussir leurs tests de santé mentale.
+
+### Talents:
+
+Chaque 3 Niveau sur un chemin, un Magus débloque un choix de Talent. Les talents sont variés et peuvent influencer l’efficacité d’un personnage dans de nombreux aspects. Les talents d’un Magus raffinent les aspects déjà puissants d’un Magus, et peuvent aussi diminuer ses faiblesses.
