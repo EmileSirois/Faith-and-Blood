@@ -2,7 +2,7 @@
 
 ### Magus:
 
-Le **Magus** est le titre légal des personnages de ce système. Ce sont des individus ayant la capacité d’utiliser leur puissance spirituelle afin d’influencer le monde qui l'entoure, que ce soit en améliorant son corps, en produisant des incantations ou des rituels. Le Magus est une personne qui suit un Chemin, et qui possède la capacité de voir les esprits et les démons. Les pouvoirs mystiques d’un Magus sont obtenus par une cicatrice mystique, et l’utilisation d’incantation ou de certaines habiletés se font par le biais d’un catalyste mystique.
+Le **Magus** est le titre légal des personnages de ce système. Ce sont des individus ayant la capacité d’utiliser leur puissance **spirituelle** afin d’influencer le monde qui l'entoure, que ce soit en améliorant son corps, en produisant des incantations ou des rituels. Le Magus est une personne qui suit un Chemin, et qui possède la capacité de voir les esprits et les démons. Les pouvoirs mystiques d’un Magus sont obtenus par une cicatrice mystique, et l’utilisation d’incantation ou de certaines habiletés se font par le biais d’un catalyste mystique.
 
 ### Cicatrice mystique:
 
