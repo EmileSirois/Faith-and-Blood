@@ -2,7 +2,7 @@
 
 ### La naissance du setting
 
-L'entièreté du setting et des événements se déroulant dans ses aventures se passeront dans (placeholder), et l'entièreté du lore et des développements se concentreront sur cette ville et ses origines. 
+L'entièreté du setting et des événements se déroulant dans ses aventures se passeront dans (placeholder), et l'entièreté du lore et des développements se concentreront sur cette ville et ses origines.
 
 ### La trame mystique
 
@@ -10,4 +10,4 @@ Le monde est Séparé en morceaux par une gigantesque toile de ouvoir mystique p
 
 ### Positionnement
 
-Cette ville, née d'un emplacement propice à la naissance d'une cité (bord de rivière) et d'une position mystique avantageuse (sur un noeud de la trame). Ainsi, cette citée à eu l'opportunité de grandir et d'évoluer avec le temps, attirant facilement de nouveaux habitants. De plus, la population de **Magus** est beaucoup plus élevée dans cette ville, encore une fois dus à son positionnement. 
+Cette ville, née d'un emplacement propice à la naissance d'une cité (bord de rivière) et d'une position mystique avantageuse (sur un noeud de la trame). Ainsi, cette citée à eu l'opportunité de grandir et d'évoluer avec le temps, attirant facilement de nouveaux habitants. De plus, la population de **Magus** est beaucoup plus élevée dans cette ville, encore une fois dus à son positionnement.
