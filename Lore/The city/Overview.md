@@ -11,3 +11,7 @@ Le monde est Séparé en morceaux par une gigantesque toile de ouvoir mystique p
 ### Positionnement
 
 Cette ville, née d'un emplacement propice à la naissance d'une cité (bord de rivière) et d'une position mystique avantageuse (sur un noeud de la trame). Ainsi, cette citée à eu l'opportunité de grandir et d'évoluer avec le temps, attirant facilement de nouveaux habitants. De plus, la population de **Magus** est beaucoup plus élevée dans cette ville, encore une fois dus à son positionnement.
+
+### Carte de la ville:
+
+<img src="image.png" alt="Description" style="transform: rotate(270deg);">
