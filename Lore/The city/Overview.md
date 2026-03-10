@@ -14,4 +14,4 @@ Cette ville, née d'un emplacement propice à la naissance d'une cité (bord de 
 
 ### Carte de la ville:
 
-<img src="/_Images/image.png" alt="Description" style="transform: rotate(90deg);">
+<img src="/_Images/image.png" alt="Description" style="transform: rotate(270deg);">
