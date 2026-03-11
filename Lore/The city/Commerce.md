@@ -1,0 +1,5 @@
+# Informations sur le Commerce
+
+### Monnaie
+
+La monnaie utilisée dans le ville de () est la **Marque**. Nommée ainsi car elle est marquée du sceau de la banque de (), et de l'effigie du monarque présent. Le marque est produit de 2 façons : une marque de papier, légère et facile à entretenir, et une marque d'Argent, une pièce d'Argent vallant son pesant en argent. À l'origine, La marque était exclusivement en pièces d'argent, mais avec l'expansion rapide de la ville et le commerce foisonnant, la quantité de pièces d'argents devenait beaucoup trop petite pour la demande abondante. Ainsi, la banque de () à commencé à imprimer des marques de papier, appelée une marque de crédit, et les marques d'Argent ont été renommée marques de commerce, utilisés majoritairement dans l'échange de biens avec des commerçants étrangers. Un commerçant peut aussi échanger des biens pour de l'Argent solide, qu'il peut faire changer en marques de commerce ou marques de crédit dans une banque. Les deux monnaies sont interchangeables dans leur forme entière. Cependant, il existe des petites coupures de Marques de crédits, comme des demi-Marques et des Quarts de Marque.
