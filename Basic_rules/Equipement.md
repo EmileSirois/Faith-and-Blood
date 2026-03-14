@@ -6,7 +6,7 @@ Les magus ont la capacité de fabriquer certaines potions ayant la capacité d�
 
 ### Armes:
 
-Tout magus peut décider d’utiliser une arme de mêlée ou une arme à distance, mais tous les magus ne posséderont pas l’habileté de bien les utiliser. Les armes simples comme les dagues ou les gourdins ne demandent pas de spécifications pour les utiliser, mais une arme plus complexe comme un revolver ou une rapière demande de l’entraînement, du savoir-faire et de la maîtrise. Ces armes demandent un entraînement avec les armes martiales ou un entraînement aux armes à feu / de chasse. Ce trait peut être obtenu par certains Chemins, Background de personnage ou Talents.
+Tout magus peut décider d’utiliser une arme de mêlée ou une arme à distance, mais tous les magus ne posséderont pas l’habileté de bien les utiliser. Les armes simples comme les dagues ou les gourdins ne demandent pas de spécifications pour les utiliser, mais une arme plus complexe comme un revolver ou une rapière demande de l’entraînement, du savoir-faire et de la maîtrise. Ces armes demandent un entraînement avec les armes martiales ou un entraînement aux armes à feu. Ce trait peut être obtenu par certains Chemins, Background de personnage ou Talents.
 
 ### Tours de Force:
 
@@ -35,8 +35,8 @@ Les reliques sont des objets chargés par l'énergie arcanique, les rendant puis
 - Si un Magus équippe 3 reliques à la fois, il doit rouler un _saving throw_ de Volonté (DC 15) chaque fois qu'il en utilise une ou chaque minute qu'ils sont équipés. Si le _saving throw_ est échoué, le Magus perd 3 points de santée mentale et roule sur la _table d'afflictions mentales_.
 - Si un Magus équippe 4 reliques ou plus à la fois, il perd 10 points de sentée mentale par minute et meurt imméaidtement si son total de santée mentale atteint 0.
 
-Référez vous à la liste des reliques pour connaître leurs effets, bonus et malus. 
+Référez vous à la liste des reliques pour connaître leurs effets, bonus et malus.
 
 ### Interractions avec les objets pendant un combat.
 
-Lors d'une scène de combat, un Magus pourraît être tenté d'utiliser un item comme une potion, de lâcher/prendre une arme ou même d'interragir avec un item dans la scène comme un interrupteur ou un levier. Généralement (se référer au meître du jeu), ces interractions sont effectuées avec une **action gratuite**. Un Magus possède une action gratuite par cycle. 
+Lors d'une scène de combat, un Magus pourraît être tenté d'utiliser un item comme une potion, de lâcher/prendre une arme ou même d'interragir avec un item dans la scène comme un interrupteur ou un levier. Généralement (se référer au meître du jeu), ces interractions sont effectuées avec une **action gratuite**. Un Magus possède une action gratuite par cycle.

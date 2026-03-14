@@ -26,7 +26,7 @@ La force détermine le dégât effectué en combat avec les attaques de mêlée,
 
 ### Agilité:
 
-L’agilité détermine le dégât effectué en combat avec els armes à distance, la chance de toucher avec les armes légères, cachées et à distance, l’efficacité de l’Action de mouvement (distance parcourue), la capacité à éviter les attaques ennemies, l’ordre du combat (vigilance/réflexes) et les compétences associées avec l’agilité.
+L’agilité détermine le dégât effectué en combat avec els armes à distance, la chance de toucher avec les armes concealed et à distance, l’efficacité de l’Action de mouvement (distance parcourue), la capacité à éviter les attaques ennemies, l’ordre du combat (vigilance/réflexes) et les compétences associées avec l’agilité.
 
 ### Intelligence:
 
