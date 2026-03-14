@@ -2,7 +2,7 @@
 
 ### Incantations:
 
-Les incantations sont utilisation directe de la puissance Mystique d’un Magus, et elles varient de simple incantation d’attaque à de complexes incantations de bannissement et de contrôle. Les incantations sont un outil essentiel dans l’arsenal du magus dans son éternel combat contre la corruption mystique. La puissance des incantations est déterminée par l’Intelligence de l’utilisateur. presque toutes les incantations peuvent être utilisées en combat avec une seule action ou deux, et peuvent permettre à un magus particulièrement avisé de retourner les chances d’un engagement en sa faveur. Certains Chemins sont particulièrement efficaces à l’utilisation d’incantations et ont la capacité d’utiliser plusieurs incantations par round.
+Les incantations sont utilisation directe de la puissance Mystique d’un Magus, et elles varient de simple incantation d’attaque à de complexes incantations de bannissement et de contrôle. Les incantations sont un outil essentiel dans l’arsenal du magus dans son éternel combat contre la corruption mystique. La puissance des incantations est déterminée par l’Intelligence de l’utilisateur. presque toutes les incantations peuvent être utilisées en combat avec une seule action ou deux, et peuvent permettre à un magus particulièrement avisé de retourner les chances d’un engagement en sa faveur. Certains Chemins sont particulièrement efficaces à l’utilisation d’incantations et ont la capacité d’utiliser plusieurs incantations par _round_.
 
 ### Rituels/Miracles:
 
@@ -10,8 +10,10 @@ Les rituels, ou miracles, sont principalement utilisés en dehors des situations
 
 ### Bonus d'attaque:
 
-Le bonus d'attaque des Incnatations est déterminé par la statistique appropriée, par exemple, si un personnage a 7 d'intelligence, son bonus d'attaque sur les incantations sera de +7, vice versa pour les rituels et la foi.
+Le bonus d'attaque des Incnatations et Rituels est déterminé par la statistique appropriée, par exemple, si un personnage a 7 d'intelligence, son bonus d'attaque sur les incantations sera de +7, vice versa pour les rituels et la foi.
 
 ### Save Dc:
 
-Lorsqu'une incantation ou un rituel impose un jet de sauvegarde à un ennemi/allié, la difficulté de ce jet est
+Lorsqu'une incantation ou un rituel impose un jet de sauvegarde à un ennemi/allié, la difficulté de ce jet est calculée avec le **Bonus d'attaque** du Magus. Le calcul est : 10 + **Bonus d'attaque**. Par exemple, une Magus avec 8 d'intelligence aurait un **Save Dc** de 18.
+
+### Niveaux de
