@@ -10,7 +10,7 @@ Tout magus peut décider d’utiliser une arme de mêlée ou une arme à distanc
 
 ### Tours de Force:
 
-Les armes possèdent aussi toutes une propriété spéciale nommée **Tour de Force**. les **Tour de Force** sont des actions spéciales données par les armes, et la majorité sont uniques à une arme. Ces propriétées peuvent être une raison déterminante pour le choix d'Arme d'un Magus. La quantité de fois q'un **Tour de Force** peut être utilisé est déterminé par le modificateur de Force d'un Magus. Toutes les utilisations des **Tours de Force** sont regagnés après un long repos. Les **Tours de Force** sont une ressource commune à toutes les armes, donc si un Magus utilise un **Tours de Force** avec une épée longue et qu'il n'a plus d'utilisations de **Tour de Force**, celui-ci ne pourra pas utiliser de **Tour de Force** sur une autre arme.
+Les armes possèdent aussi toutes une propriété spéciale nommée **Tour de Force**. les **Tour de Force** sont des actions spéciales données par les armes, et la majorité sont uniques à une arme. Ces propriétées peuvent être une raison déterminante pour le choix d'Arme d'un Magus. La quantité charges de **Tour de Force** est déterminé par le (modificateur de Force d'un Magus + 1). Toutes les utilisations des **Tours de Force** sont regagnés après un long repos. Les **Tours de Force** sont une ressource commune à toutes les armes, donc si un Magus utilise un **Tours de Force** avec une épée longue et qu'il n'a plus d'utilisations de **Tour de Force**, celui-ci ne pourra pas utiliser de **Tour de Force** sur une autre arme.
 Certaines reliques possèdent des **Tours de Force** uniques, qui peuvent être utilisés avec la même ressource commune.
 
 ### Armure:
@@ -25,7 +25,7 @@ Toutes les armures ont une classe et une valeur, par exemple un plastron est une
 
 ### Objets divers:
 
-Le monde est rempli d'objets étranges et innatendus qui peuvent être utilisés pour se donner un avantage dans un combat. L'utilisations d'items qui ne sont pas dans les listes fournies devrait être discuté avec le meître du jeu.
+Le monde est rempli d'objets étranges et innatendus qui peuvent être utilisés pour se donner un avantage dans un combat. L'utilisations d'items qui ne sont pas dans les listes fournies devrait être discuté avec le maître du jeu.
 
 ### Reliques:
 
