@@ -34,6 +34,8 @@ La profiscience d'un Magus est déterminépar son expérience, et se manifeste p
 
 Un Magus peut être profiscient avec; un ou plusieurs _skill_, les catégories d'armes et les jets de sauvegarde.
 
+Lorsqu'un Magus est profiscient avec une catégorie d'arme, il ajoute son modificateur de profiscience aux jets d'attaque faits avec celles-ci. Si il n'est pas profiscient, il fait ses jets d'attaque avec désavantage. Les armes simples ne demandent aucune entrainement spécial afin d'être profiscient dans leur utilisation, et tous les Magus peuvent attaquer avec ces armes sans pénalité. Cependant, les armes martialles, les armes de chasse et les armes à feu demandent un entraînement particulier afin d'être profiscient avec celles-ci. Par exemple, le _path_ du _chasseur_ donne la _feature_ **Entraînemetn avec les armes de chasse**, lui permettant d'utiliser l'arc court, l'Arc long et l'Arbalète lourde.
+
 ### Caractéristiques:
 
 Les personnages possèdent 6 caractéristiques : Force, Agilité, Constitution, Intelligence, Foi et Volonté. Chaque point mis dans une statistique augmente le modificateur de cette statistique du même nombre, et certains chemins priorisent l’utilisation d’une ou deux caractéristiques, il est donc conseillé (mais pas obligatoire) de renforcer ces statistiques le plus possible. À la création du personnage, le joueur possède 8 points d’habileté lui permettant d’augmenter ses statistiques (Par exemple : F(4) A(2) C(1) I(0) F(0) V(1)). Le joueur peut aussi décider de sacrifier un ou deux points d’une caractéristique en particulier pour en augmenter d’autres, par exemple en décidant de commencer son personnage avec -2 de force et 10 d’intelligence.
