@@ -16,6 +16,24 @@ Tout magus se doit aussi d’avoir un catalyste mystique avec lequel il peut op�
 
 Tous les personnages possèdent un chemin, qui détermine leurs habiletés et talents dans certains domaines. Les chemins sont aussi un code de conduite et un style de vie pour les Magus qui l’empruntent, et doivent y adhérer afin d’avancer sur ce chemin. Le chemin commence au niveau 1 et monte jusqu’au niveau maximal de 9. Un Magus peut cependant emprunter deux chemins simultanés, lui permettant d'agencer plusieurs chemins uniques au choix du joueur. De plus, certaines combinaisons de chemins causent la création d’un chemin secret, possédant des habiletés uniques et offrant une expérience différente au joueur assez courageux pour le marcher. Le gain de niveau des personnages se fait à la discrétion du maître de jeu.
 
+### Profiscience:
+
+La profiscience d'un Magus est déterminépar son expérience, et se manifeste par un modificateur s'ajoutant à tous les lancés de dé dans lequel le Magus est profiscient. Fiez vous à cette table pour connaître votre modificateur de profiscience:
+
+| niveau du Magus | modificateur de profiscience |
+| --------------- | ---------------------------- |
+| 1               | 1                            |
+| 2               | 1                            |
+| 3               | 1                            |
+| 4               | 2                            |
+| 5               | 2                            |
+| 6               | 2                            |
+| 7               | 3                            |
+| 8               | 3                            |
+| 9               | 3                            |
+
+Un Magus peut être profiscient avec; un ou plusieurs _skill_, les catégories d'armes et les jets de sauvegarde.
+
 ### Caractéristiques:
 
 Les personnages possèdent 6 caractéristiques : Force, Agilité, Constitution, Intelligence, Foi et Volonté. Chaque point mis dans une statistique augmente le modificateur de cette statistique du même nombre, et certains chemins priorisent l’utilisation d’une ou deux caractéristiques, il est donc conseillé (mais pas obligatoire) de renforcer ces statistiques le plus possible. À la création du personnage, le joueur possède 8 points d’habileté lui permettant d’augmenter ses statistiques (Par exemple : F(4) A(2) C(1) I(0) F(0) V(1)). Le joueur peut aussi décider de sacrifier un ou deux points d’une caractéristique en particulier pour en augmenter d’autres, par exemple en décidant de commencer son personnage avec -2 de force et 10 d’intelligence.
