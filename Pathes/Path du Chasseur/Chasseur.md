@@ -26,7 +26,7 @@ Le Chasseur est un _demi-Caster_ d'incantations, et il utilise son intelligence 
 | 5      | Actions Supplémentaires      | 2            |
 | 6      | Third Class Feature          | 2            |
 | 7      | Combinaison : SpellBlade     | 3            |
-| 8      | Extra Attack                 | 3            |
+| 8      |                              | 3            |
 | 9      | Final Class Feature          | 3            |
 
 ### Features
@@ -39,6 +39,8 @@ Le Chasseur est un _demi-Caster_ d'incantations, et il utilise son intelligence 
 
 Avec une action Mystique, vous rendre temporairement **invisible** et **Indetectable**. Vous référer à la section sur les conditions dans les règles de combat. **L'invisibilité** n'est pas brisée par le mouvement, ni l'utilisation d'une Incantation prenant le _Caster_ comme cible. Cependant, l'Action d'attaquer ou l'utilisation d'une Incantation prenant une autre créature comme cible met fin à l'invisibilité. Tant que le Chasseur est invisible, il obtiens **l'Avantage** sur sa prochaine attaque.
 
+---
+
 #### Niveau 2 : Actions Supplémentaires
 
 Le Chasseur gagne les prochaines Actions dans son **AP** :
@@ -46,9 +48,54 @@ Le Chasseur gagne les prochaines Actions dans son **AP** :
 - **Attaquer**
 - **Mouvement**
 
+---
+
 #### Niveau 3 : Combinaison
 
 Le Chasseur obtiens la Combinaison **Mobile Shooter**.
 **Mobile Shooter** : Le Magus peut, dans un même cycle, dépenser une action **Attaquer** et **Mouvement** pour bouger et attaquer dans l'ordre désiré. **Cependant, l'Action doit être faite avec une arme à distance**.
 
-#### Niveau 3 : Class Feature
+---
+
+#### Niveau 4 : Class Feature
+
+#### Freedom of Movement :
+
+#####
+
+La vitesse du Chasseur augmente de 10 pieds, il n'est pas ralenti par le terrain difficile, il ne se prend pas de dégâts des surfaces dangereuses et il obtiens une vitesse de grimpage et de nage équivalente à sou mouvement normal.
+
+---
+
+#### Niveau 5 : Actions Supplémentaires
+
+Le Chasseur gagne les prochaines Actions dans son **AP** :
+
+- **Mystique**
+- **Mouvement**
+
+---
+
+#### Niveau 6 : Class Feature
+
+##### Poisoned tipped arrows :
+
+###### Le Chasseur bande son arc, ajoutant une touche d'énergie mystique à sa flèche. Une énergie verdâtre l'enrobe et la supporte, l'embout se recouvre d'une couche d'un poison vicieux, et la flèche vole ininterrompue vers sa cible.
+
+Les flèches que le Chasseur utilise sont enchantées et recouvertes d'un poison mystique. Les dégâts infligés par ces flèches ignorent les résistances au dégât transperçant. De plus, les flèches qui touchent infligent 1d6 dmg de poison supplémentaire.
+
+---
+
+#### Niveau 7 : Combinaison
+
+Le Chasseur obtiens la Combinaison **SpellBlade**.
+**SpellBlade** : Le Magus peut, dans un même cycle, dépenser une action **Attaquer** et **Mystique** pour _Cast_ et attaquer dans l'ordre désiré.
+
+---
+
+#### Niveau 8 :
+
+---
+
+#### Niveau 9 : Class Feature
+
