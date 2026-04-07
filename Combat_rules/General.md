@@ -18,7 +18,7 @@ Un **round** est constitué de 3 **cycles**, et chaque **acteur** peut prendre u
 
 ### Action pool:
 
-Chaque **Acteur** dispose d'une **Action pool**, représenté par des cartes représentant l'Action effectuée. Par example, un **Magus** de niveau 1 aurait dans son **Action pool** une carte d'**attaque**, une carte de **mouvement** et une carte d'**action mystique**. À chaque **cycle**, le **Magus** peut décider de **discarter** une de ses cartes d'action pour prendre cette action, donc si il décide d'utiliser sa carte de mouvement, il pourrait bouger pour ce **cycle**. Si le **Magus** ne possède plus de cartes d'action, il ne peut pas prendre d'action sur son tours. **À la fin des 3 cycles, le tour prend fin, redonnant toutes les cartes d'action dépensées à tous les acteurs**
+Chaque **Acteur** dispose d'une **Action pool**, représenté par des cartes représentant l'Action effectuée. Par example, un **Magus** de niveau 1 aurait dans son **Action pool** une carte d'**attaque**, une carte de **mouvement** et une carte d'**action mystique**. À chaque **cycle**, le **Magus** peut décider de **dépenser** une de ses actions pour prendre cette action, donc si il décide de dépenser son action de mouvement, il pourrait bouger pour ce **cycle**. Si le **Magus** ne possède plus d'action dans son **AP**, il ne peut pas prendre d'action sur son tours. **À la fin des 3 cycles, le tour prend fin, redonnant toutes les actions dépensées à tous les acteurs**
 
 ### Attaques:
 
@@ -26,11 +26,11 @@ Lorsqu'une entitée est attaquée avec une attaque directe, le chance de toucher
 
 ### Reactions:
 
-Chaque **Acteur** dispose chaque cycle d'une réaction, représentée par un **Reaction Token**. Une réaction peut être prises dans les situation suivantes:
+Chaque **Acteur** dispose chaque cycle d'une ou plusieurs réaction, représentée par un ou des **Reaction Token**. Une réaction peut être prises dans les situation suivantes:
 
 - Si une créature quitte sa portée de mêlée, l'acteur qui réagie peut effectuer une attaque d'opportunité.
-- Dans le cas ou la condition d'une **Action conditionelle** est remplie, l'acteur prend l'action déterminée (plus de détails plus bas).
+- Dans le cas ou la condition d'une **Action conditionelle** est remplie, l'acteur prend l'action déterminée (se référer à la section sur les actions conditionnelles dans les règles de combat).
 - Dans le cas où l'acteur connait et peut utiliser une incantation possédant une réaction comme temps d'utilisation.
 - Certains traits et _Pathes_ donne accès à des réaction spéciales, les mêmes règles générales s'appliquent à ces réactions.
 
-Lorsqu'une réaction est utilisée, le **Reaction Token** est discarté. Le **Reaction Token** est repris lors du début d'un nouveau **round**.
+Lorsqu'une réaction est utilisée, un **Reaction Token** est dépensé, sauf si spécifié autrement. Les **Reaction Tokens** est repris lors du début d'un nouveau **round**.
