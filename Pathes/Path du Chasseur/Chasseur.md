@@ -2,6 +2,8 @@
 
 ### Overview
 
+###### Le chasseur traque sa proie, camouflage urbain le protégeant des yeux indiscrets, indéteclables aux sens de la bête qu'il poursuit. Si sa chasse est fortuite, le monde sera enfin libéré de son immonde et terrifiante proie.
+
 Un Magus sur le _path_ du Chasseur est un _Striker longue distance_ et un _buffing Caster_, se concentrant sur le dégât avec les armes de chasse, la mobilité (_kiting_) et l'utilisation de compétences/d'incantations de _buff_. À haut niveau, le Chasseur est pratiquement intouchable et insaisissable lorsqu'il reste à longue distance, et ses dégats à longue distance mettent une pression continuelle sur ses ennemis. La statistique primaire du chasseur est l'**Agilité**, et il utilise son **Intelligence** pour _cast_ des Incantations.
 
 ### Profiscience
@@ -31,7 +33,7 @@ Le Chasseur est un _demi-Caster_ d'incantations, et il utilise son intelligence 
 
 ### Features
 
-#### Niveau 1 : Class Feature
+#### Niveau 1 : Class Features
 
 ##### Nature's shroud :
 
@@ -39,6 +41,10 @@ Le Chasseur est un _demi-Caster_ d'incantations, et il utilise son intelligence 
 
 Avec une action Mystique, vous rendre temporairement **invisible** et **Indetectable**. Vous référer à la section sur les conditions dans les règles de combat. **L'invisibilité** n'est pas brisée par le mouvement, ni l'utilisation d'une Incantation prenant le _Caster_ comme cible. Cependant, l'Action d'attaquer ou l'utilisation d'une Incantation prenant une autre créature comme cible met fin à l'invisibilité. Tant que le Chasseur est invisible, il obtiens **l'Avantage** sur sa prochaine attaque.
 Le Chasseur possède un nombre de charge de cette habileté équivalent à son Inteligence + 1.
+
+##### Traqueur Hors pair :
+
+Le Chasseur peut traquer une proie sans effort, se fiant à son expérience et les indices laissés par une créature/personne. Une fois que le Chasseur à détécté une piste d'une créature (empreinte, morceau de fourrure, résidus, ect.), il peut commencer à la **traquer**. Une fois qu'il traque une créature, le Chasseur effectue ses _rolls_ de survie avec avantage, et ses _rolls_ de perception pour détécter des indices avec avantage.
 
 ---
 
