@@ -19,17 +19,17 @@ Le Chasseur est un _demi-Caster_ d'incantations, et il utilise son intelligence 
 
 ### Path progression
 
-| Niveau | Features                     | Profiscience |
-| ------ | ---------------------------- | ------------ |
-| 1      | First Class Feature          | 1            |
-| 2      | Actions Supplémentaires      | 1            |
-| 3      | Combinaison : Mobile Shooter | 1            |
-| 4      | Second Class Feature         | 2            |
-| 5      | Archetype Feature            | 2            |
-| 6      | Third Class Feature          | 2            |
-| 7      | Actions Supplémentaires      | 3            |
-| 8      | Combinaison : SpellBlade     | 3            |
-| 9      | Final Class Feature          | 3            |
+| Niveau | Features                              | Profiscience |
+| ------ | ------------------------------------- | ------------ |
+| 1      | First Class Feature                   | 1            |
+| 2      | Actions Supplémentaires               | 1            |
+| 3      | Combinaison : Mobile Shooter + Talent | 1            |
+| 4      | Second Class Feature                  | 2            |
+| 5      | Archetype Feature                     | 2            |
+| 6      | Third Class Feature + Talent          | 2            |
+| 7      | Actions Supplémentaires               | 3            |
+| 8      | Combinaison : SpellBlade              | 3            |
+| 9      | Final Class Feature + Talent          | 3            |
 
 ### Features
 
