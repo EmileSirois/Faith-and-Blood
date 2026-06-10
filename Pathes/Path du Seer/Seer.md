@@ -49,18 +49,20 @@ Le Seer obtiens un nombre de charges de **Divination** équivalent à son modifi
   - Le seer doit voir sa cible.
 - ##### Prévision Offensive (1 charge)
   - incantation prenant 1 action mystique.
-  - Le seer prédit les mouvents de sa cible pour obtenir un Avantage sur sa prochaine attaque contre sa cible.
+  - Le seer prédit les mouvents de sa cible pour obtenir un Avantage sur sa prochaine attaque contre sa cible. Il peut aussi décider de donner la vision du futur à un allié. Cet allié aura avantage sur sa prochaine attaque à la place du Seer.
   - Le seer doit voir sa cible.
 
 ##### Voyant
 
-###### La voyante observe longuement sa boule de crystal, les reflets de celle-ci s'épanouissants sur le plafond en un incessante danse hypnotyse
+###### La voyante observe longuement sa boule de crystal, les reflets de celle-ci s'épanouissants sur le plafond en un incessante danse hypnotysante.
+
+Le Seer peut utiliser son catalyste mystique dans un rituel durant 60 minutes pour tenter de révéler un secret. Le rituel utilise une charge de **Divination** et demande une concentration constante de la part du Seer. Nimporte quelle information inconnue ayant une réponse certaine peut être un secret. Le Seer est encourragé à choisir un catalyste mystique ayant un lien avec la divination, comme une boule de crystal ou des cartes de tarot.
+
+Lorsque le rituel se termine et que la question à été posée, Le seer doit produire un check de divination qui détermine si la question reçoit une réponse ou non. La difficulté du check est déterminé par l'importance de l'information et la difficutlé d'obtenir celle-ci. Ultimement, Le Dm décide de la difficulté du check.
 
 ---
 
 #### Niveau 2 : Incantations Supplémentaires :
-
-
 
 ---
 
