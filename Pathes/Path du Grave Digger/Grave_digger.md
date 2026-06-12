@@ -6,6 +6,10 @@ Le Grave Digger est un _Summoner_, un _Half Caster_ et un _Health Tank_. Le Grav
 
 ### Profiscience
 
+Entraînement aux armes improvisées : Le Magus est profiscient avec les armes improvisées
+Entraînement aux armures légères : Le Magus est profiscient avec les armures légères
+Jets de sauveguarde : Le magus est profiscient dans les jets de sauveguarde d'Intelligence et de Volonté.
+
 ### Casting
 
 ### Path progression
@@ -89,6 +93,10 @@ Le Grave Digger obtiens la combinaison **Frontline Leader**
 
 Lorsque le Grave Digger atteint 0 hp, il reste dans l'initiative. Le Grave Digger reste conscient lorsqu'il est à 0 hp et tant qu'il n'est pas mort. Sur un de ses tours, le Grave Digger peut se soigner en utilisant un slot d'incantation. La quantité de soin est équivalent à xd8, où x représente le niveau du slot.
 
+##### Tools of The trade
+
+######
+
 ---
 
 #### Niveau 5 : Archetype Feature (Summoner)
@@ -107,7 +115,7 @@ Le Magus reçoit une action «Donner un Ordre» supplémentaire dans son AP.
 
 ###### Le Grave Digger reprend sa magie de force, laissant le cadavre de son Revenant choir sur le sol, inanimé.
 
-Le Grave Digger peut sacrifier son Revenant pour se régénérer lui-même, regagnant un nombre de points de vie équivalent à la moitiée des points de vie restants de son Revenant. 
+Le Grave Digger peut sacrifier son Revenant pour se régénérer lui-même, regagnant un nombre de points de vie équivalent à la moitiée des points de vie restants de son Revenant.
 _Par exemple, si le Revenant à 30 points de vie et que le Grave Digger utilise Power Return, le Grave Digger regagne 15 points de vie._
 
 Le Grave Digger peut aussi décider de soigner un de ses alliée avec Power Return. Le Grave Digger doit voir son allié pour pouvoir le soigner.

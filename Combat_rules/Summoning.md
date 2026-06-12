@@ -24,4 +24,4 @@ Pour qu'un Summon Attaque, il doit avoir reçu l'ordre d'attaquer. Il n'y a pas 
 
 ### Identity
 
-Un Summon est une entité différente de son Summoner, et même si celui-ci prend certaines décisions, il se peut que le Summon soit en désacord avec ces décisions. En tant que joueur, essayer de rester dans l'esprit d'un summoner lorsque vous prenez ces décisions. Que ce soit dans le role-play ou dans les moments narratifs, pensez à ce que vos summons peuvent vous apporter, pas seulement dans les moments de combat et d'action.
+Un Summon est une entité différente de son Summoner, et même si celui-ci prend certaines décisions, il se peut que le Summon soit en désacord avec ces décisions. En tant que joueur, essayez de rester dans l'esprit d'un summoner lorsque vous prenez ces décisions. Que ce soit dans le role-play ou dans les moments narratifs, pensez à ce que vos summons peuvent vous apporter, pas seulement dans les moments de combat et d'action.
