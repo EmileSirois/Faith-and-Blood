@@ -48,7 +48,7 @@ Le Chasseur peut traquer une proie sans effort, se fiant à son expérience et l
 
 ---
 
-#### Niveau 2 : Actions Supplémentaires
+#### Niveau 2 : Extra Actions 
 
 Le Chasseur gagne les prochaines Actions dans son **AP** :
 
@@ -57,7 +57,7 @@ Le Chasseur gagne les prochaines Actions dans son **AP** :
 
 ---
 
-#### Niveau 3 : Combinaison
+#### Niveau 3 : Combination
 
 Le Chasseur obtiens la Combinaison **Mobile Shooter**.
 **Mobile Shooter** : Le Magus peut, dans un même cycle, dépenser une action **Attaquer** et **Mouvement** pour bouger et attaquer dans l'ordre désiré. **Cependant, l'Action doit être faite avec une arme à distance**.
@@ -93,7 +93,7 @@ Les armes à distance que le Chasseur utilise sont enchantées et recouvertes d'
 
 ---
 
-#### Niveau 7 : Actions Supplémentaires
+#### Niveau 7 : Extra Actions
 
 Le Chasseur gagne les prochaines Actions dans son **AP** :
 
@@ -102,7 +102,7 @@ Le Chasseur gagne les prochaines Actions dans son **AP** :
 
 ---
 
-#### Niveau 8 : Combinaison
+#### Niveau 8 : Combination
 
 Le Chasseur obtiens la Combinaison **SpellBlade**.
 **SpellBlade** : Le Magus peut, dans un même cycle, dépenser une action **Attaquer** et **Mystique** pour _Cast_ et attaquer dans l'ordre désiré.

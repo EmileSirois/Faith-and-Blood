@@ -2,7 +2,7 @@
 
 ### Overview
 
-Le Zealot est un _Melee Striker_ et un _Tank_, utilisant sa Foi et ses croyances absolues pour contrecarer la mort elle même. La statistique principale du Zealdot est la Foi, utilisant sa volontéet sa constitution pour rester en vie. À haut niveau, le Zealot est un croyant à l'esprit de fer, infatiguable et immuable, il est la véritable avatar du panthéon des 6 dieux.
+Le Zealot est un _Melee Striker_ et un _Tank_, utilisant sa Foi et ses croyances absolues pour contrecarer la mort elle même. La statistique principale du Zealot est la Foi, utilisant sa volonté et sa constitution pour rester en vie. À haut niveau, le Zealot est un croyant à l'esprit de fer, infatiguable et immuable, il est le véritable avatar du panthéon des 6 dieux.
 
 ### Profiscience
 
@@ -16,17 +16,17 @@ Le Zealot n'est pas un Caster, il ne peut donc qu'apprendre des miracles de nive
 
 ### Path progression
 
-| Niveau | Features | Profiscience |
-| ------ | -------- | ------------ |
-| 1      |          | 1            |
-| 2      |          | 1            |
-| 3      |          | 1            |
-| 4      |          | 2            |
-| 5      |          | 2            |
-| 6      |          | 2            |
-| 7      |          | 3            |
-| 8      |          | 3            |
-| 9      |          | 3            |
+| Niveau | Features                    | Profiscience |
+| ------ | --------------------------- | ------------ |
+| 1      | First Class Feature         | 1            |
+| 2      | Second Class Feature        | 1            |
+| 3      | Extra Actions + Combination | 1            |
+| 4      | Class Feature               | 2            |
+| 5      | Archetype Feature           | 2            |
+| 6      | Class Feature               | 2            |
+| 7      | Extra Actions               | 3            |
+| 8      | Combination                 | 3            |
+| 9      | Class Feature               | 3            |
 
 ### Features
 
@@ -47,29 +47,13 @@ Le nombre de charges de [Tours de Force](../../Basic_rules/Equipement.md) du Zea
 
 ---
 
-#### Niveau 2 : Actions Supplémentaires
-
-Le Zealot gagne les prochaines Actions dans son **AP** :
-
-- **Attaquer**
-- **Mouvement**
-
----
-
-#### Niveau 3 : Combinaison
-
-Le Zealot obtiens la Combinaison **Swift Strike**.
-**Swift Strike** : Le Magus peut, dans un même cycle, dépenser une action **Attaquer** et **Mouvement** pour bouger et attaquer dans l'ordre désiré. **Cependant, l'Action doit être faite avec une arme de mêlée**.
-
----
-
-#### Niveau 4 : Class Feature
+#### Niveau 2 : Class Feature
 
 ##### HEAR MY PRAYERS!!!
 
-###### Flavor text
+###### Le Zealot Récite Furieusement une prière, son fléau se couvre d'une lumière divine presque aveuglante, les dieux eux-mêmes ont Bénis cette arme en ce jour.
 
-Le Zealot obtiens un nombre de charges de **Prière** équivalent à son modificateur de Foi, qu'il peut dépenser pour utiliser les habilitées ci-bas. Le Zealot regagne toutes ses charges de **Prière** après un repos. L'utilisation d'une prière requiert une charge de **Prière** et une action mystique.
+Le Zealot obtiens un nombre de charges de **Divinité** équivalent à son modificateur de Foi, qu'il peut dépenser pour utiliser les habilitées ci-bas. Le Zealot regagne toutes ses charges de **Divinité** après un repos. L'utilisation d'une prière requiert une charge de **Divinité** et une action mystique.
 
 - ##### Prière de Haine
   - La prochaine attaque du Zealot avec une arme inflige + (x)d8 radiant dmg, où X représente (Niveau du Zealot / 2) Arrondis vers le haut.
@@ -80,6 +64,31 @@ Le Zealot obtiens un nombre de charges de **Prière** équivalent à son modific
 
 ---
 
+#### Niveau 3 : Extra Actions + Combination
+
+Le Zealot gagne les prochaines Actions dans son **AP** :
+
+- **Attaquer**
+- **Mouvement**
+
+Le Zealot obtiens la Combinaison **Swift Strike**.
+**Swift Strike** : Le Magus peut, dans un même cycle, dépenser une action **Attaquer** et **Mouvement** pour bouger et attaquer dans l'ordre désiré. **Cependant, l'Action doit être faite avec une arme de mêlée**.
+
+---
+
+#### Niveau 4 : Class Feature
+
+##### MY DIVINE FURY!!!!
+
+###### Le Zealot se tourne vers le Ciel en criant ses mots divins, se faisant du même coup recouvrir d'un voile lumineux, bénidiction des dieux.
+
+Le Zealot, avec une action Mystique et en dépensant (2 charges de **Divinité**), peut entrer en État de **Fureur Divine**. La **Fureur Divine** octroie les bénéfices suivants :
+
+- Le Zealot Peut Utiliser Prière de Haine sans utiliser de Charges de **Divinité**
+- Les ennemis qui entrent ou commencent leur tour en mêlée avec le Zealot doivent faire un jet de sauvegarde de Foi ou être aveuglés jusqu'à la fin de leur prochain tour.
+
+---
+
 #### Niveau 5 : Archetype Feature (Melee Striker)
 
 ##### Extra Attack
@@ -87,7 +96,7 @@ Le Zealot obtiens un nombre de charges de **Prière** équivalent à son modific
 Le Magus reçois une action «Attaquer» supplémentaire dans son AP
 
 Le Zealot obtiens la Combinaison **Double Strike**.
-**Double Strike** : Le Magus peut, dans un même cycle, dépenser une action **Attaquer** et **Attaquer** pour attaquer 2 fois dans un même cycle. **Cependant, l'Action doit être faite avec une arme de mêlée**.
+**Double Strike** : Le Magus peut, dans un même cycle, dépenser une action **Attaquer** et **Attaquer** pour attaquer 2 fois. **Cependant, l'Action doit être faite avec une arme de mêlée**.
 
 ---
 
@@ -103,7 +112,7 @@ La difficulté du Death Defy Throw est égal à 10 + (Nombre de Death Defy reuss
 
 ---
 
-#### Niveau 7 :
+#### Niveau 7 : Extra Actions
 
 Le Zealot gagne les prochaines Actions dans son **AP** :
 
@@ -112,7 +121,7 @@ Le Zealot gagne les prochaines Actions dans son **AP** :
 
 ---
 
-#### Niveau 8 :
+#### Niveau 8 : Combination
 
 Le Zealot obtiens la Combinaison **SpellBlade**.
 **SpellBlade** : Le Magus peut, dans un même cycle, dépenser une action **Attaquer** et **Mystique** pour _Cast_ et attaquer dans l'ordre désiré.
@@ -121,7 +130,18 @@ Le Zealot obtiens la Combinaison **SpellBlade**.
 
 #### Niveau 9 : Class Feature
 
-##### Nom
+##### ETERNAL DIVINITY!!!!!!
 
-###### Flavor text
+###### LÉnergie Divine du Zealot semble infinie et inépuisable, tirant chaque avantage possible des dieux qu'il vénère.
 
+Lorsque le Zealot Tue un ennemi ou qu'un ennemi meurt en mêlée avec le Zealot, le Zealot regagne une charge de Divinité.
+
+Lorsque le Zealot échoue un Saving Throw, il peut Dépenser une charge de **Divinité** pour le réussir.
+
+Le Nombre de Charges de **Divinité** du Zealot augmente à (2 x Modificateur de Foi).
+
+##### DIE HERETIC!!!!!!!
+
+###### Le fléau du Zealot s'abbat sur son ennemi en un choc tonitruant, une brillante explosion lumineuse englobe le champs de bataille, et le corps fumant de l'hérétique gis aux pieds du Zealot.
+
+Le Zealot, s'il est en mêlée avec un ennemi, peut Dépenser 3 Charges de **Divinité**, une action _Attaquer_ et une action _Mystique_ pour **Smite** en ennemi. **Smite** est une attaque de mêlée, si l'attaque manque, elle touche. Les Dégàts de Smite sont Équivalent à ((2 x Weapon Dmg) + 6d8 radiant Dmg). La prière de Haine ne compte pas comme Dégât d'arme, mais les dégâts ajoutés d'un _Tour de Force_ le sont.
