@@ -13,6 +13,6 @@
 | Heavy      |       | Une arme lourde requiert au moins (n) points de force pour attaquer sans Désavantage                                                                            |
 | Two-Handed |       | L'arme prend 2 mains pour utiliser                                                                                                                              |
 | Reach      |       | La portée d'attaque est augmentée de 5 pieds                                                                                                                    |
-| Reload     |       | L'action de recharger doit être utilisée après (n) attaques                                                                                                     |
+| Reload     |       | L'action de recharger doit être utilisée après (n) attaques attaques                                                                                            |
 | Ammunition |       | Les munitions de cette arme sont particulièrement difficiles à se procurer                                                                                      |
 | Cycling    |       | Après chaque atq est mise dans votre **AP** une **AC** cycling. Tant que cette **AC** se trouve dans votre **AP**, vous ne pouvez pas attaquer avec cette arme. |
