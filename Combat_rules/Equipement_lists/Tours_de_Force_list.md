@@ -50,7 +50,7 @@ Après avoir effectué une Atq, dépensez une charge de [Tours de Force](/Faith-
 | ----- | ------------- | ---------- |
 | Lance | Action        | Atq        |
 
-En effectuant une Atq, épensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour vous déplacer de ([Vitesse de Mouvement](/Faith-and-Blood/Combat_rules/Actions.md#mouvement)) vers votre cible. Si l'Atq touche, elle inflige 1d4 dégâts supplémentaires.
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour vous déplacer de ([Vitesse de Mouvement](/Faith-and-Blood/Combat_rules/Actions.md#mouvement)) vers votre cible. Si l'Atq touche, elle inflige 1d4 dégâts supplémentaires.
 
 ---
 
@@ -60,7 +60,7 @@ En effectuant une Atq, épensez une charge de [Tours de Force](/Faith-and-Blood/
 | --------------- | ------------- | ---------- |
 | Gants de Combat | Action        | Atq        |
 
-Infligez une Atq dévastatrice qui inflige le maximum possible sur les dés de dégâts. La cible doit réussir un jet de sauvegarde de Constitution ou être affectée par _Dazed_.
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour infliger une Atq dévastatrice qui inflige le maximum possible sur les dés de dégâts. La cible doit réussir un jet de sauvegarde de Constitution ou être affectée par _Dazed_.
 
 ---
 
@@ -70,7 +70,7 @@ Infligez une Atq dévastatrice qui inflige le maximum possible sur les dés de d
 | ------------------ | ------------- | ---------- |
 | Couteaux de Lancer | Action        | Atq        |
 
-Doublez le nombre de couteaux lancés lors de cette Atq.
+En effectuant une Atq vace un Couteau de lancer, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour doubler le nombre de couteaux lancés lors de cette Atq.
 
 ---
 
@@ -80,7 +80,7 @@ Doublez le nombre de couteaux lancés lors de cette Atq.
 | ----------- | ------------- | ---------- |
 | Épée courte | Action        | Atq        |
 
-Lorsque vous effectuez une Atq avec une _Shortsword_, effectuez immédiatement une Atq avec une arme dans votre seconde main.
+Lorsque vous effectuez une Atq avec une Épée Courte, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour effectuer immédiatement une Atq avec une arme dans votre seconde main.
 
 ---
 
@@ -90,7 +90,7 @@ Lorsque vous effectuez une Atq avec une _Shortsword_, effectuez immédiatement u
 | ------------------- | ------------- | ---------- |
 | Couteau de Tranchée | Action        | Atq        |
 
-En effectuant une Atq, ajoutez 1d4 dégâts du type choisi (_Slashing_, _Bludgeoning_ ou _Piercing_). La cible doit réussir un jet de sauvegarde de Constitution ou subir l'effet correspondant (_Bleeding_, _Exposed_ ou _Faltered_).
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour ajoutez 1d4 dégâts du type choisi (_Slashing_, _Bludgeoning_ ou _Piercing_). La cible doit réussir un jet de sauvegarde de Constitution ou subir l'effet correspondant (_Bleeding_, _Exposed_ ou _Faltered_).
 
 ---
 
@@ -100,7 +100,7 @@ En effectuant une Atq, ajoutez 1d4 dégâts du type choisi (_Slashing_, _Bludgeo
 | ---------- | ------------- | ------------------------- |
 | Hallebarde | Réaction      | Entrée en portée de mêlée |
 
-Lorsqu'une créature entre à portée de mêlée, vous pouvez utiliser votre **Réaction** pour effectuer une Atq contre elle.
+Lorsqu'une créature entre à portée de mêlée, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) et utiliser une **Réaction** pour effectuer une Atq contre elle.
 
 ---
 
@@ -110,7 +110,7 @@ Lorsqu'une créature entre à portée de mêlée, vous pouvez utiliser votre **R
 | -------- | ------------- | -------------- |
 | Bouclier | Réaction      | Blocage réussi |
 
-Lorsqu'une Atq est **bloquée**, vous pouvez utiliser votre **Réaction** pour effectuer une Atq avec votre bouclier contre l'assaillant, infligeant 1d4 dégâts contondants (_Bludgeoning_). Si l'Atq touche, la cible devient _Exposed_.
+Lorsqu'une Atq est **bloquée**, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) et utiliser une **Réaction** pour effectuer une Atq avec votre bouclier contre l'assaillant, infligeant 1d4 dégâts contondants (_Bludgeoning_). Si l'Atq touche, la cible devient _Exposed_.
 
 ---
 
@@ -128,7 +128,7 @@ Lorsqu'une Atq est **bloquée**, vous pouvez utiliser votre **Réaction** pour e
 | --------------- | ------------- | --------------- |
 | Dague de Parade | Réaction      | Échec de Parade |
 
-Lorsque vous échouez un jet de _Parry_, vous pouvez le relancer en y ajoutant votre bonus de maîtrise (_Proficiency Bonus_).
+Lorsque vous échouez un jet de _Parry_, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour le relancer en y ajoutant votre bonus de maîtrise (_Proficiency Bonus_).
 
 ---
 
@@ -138,7 +138,7 @@ Lorsque vous échouez un jet de _Parry_, vous pouvez le relancer en y ajoutant v
 | ----------------- | ------------- | ---------- |
 | Armes Improvisées | Action        | Atq        |
 
-En effectuant une Atq, utilisez votre arme de façon inattendue, infligez _Exposed_ à votre cible et doublez les dés d'arme roulés pour le dmg. Cependant, prendre cette action brise votre arme.
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) et utilisez votre arme de façon inattendue pour infliger _Exposed_ à votre cible et doubler les dés d'arme roulés pour le Dmg. Cependant, prendre cette action brise votre arme.
 
 ---
 
@@ -148,7 +148,7 @@ En effectuant une Atq, utilisez votre arme de façon inattendue, infligez _Expos
 | --------------- | ------------- | ---------- |
 | Arbalète Lourde | Action        | Atq        |
 
-En effectuant une Atq, ajoutez +3 au résultat du jet d'Atq. Si l'Atq touche, ajoutez-y 3 dmg.
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour ajouter +3 au résultat du jet d'Atq. Si l'Atq touche, ajoutez-y 3 Dmg.
 
 ---
 
@@ -158,7 +158,7 @@ En effectuant une Atq, ajoutez +3 au résultat du jet d'Atq. Si l'Atq touche, aj
 | --------- | ------------- | ------------- |
 | Arc Court | Action        | Après une Atq |
 
-Après avoir effectué une Atq, ajoutez une action _Quick Fire_ à votre **AP**.
+Après avoir effectué une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour ajouter une action _Quick Fire_ à votre **AP**.
 
 **Quick Fire (Action)** : Effectuez une Atq avec l'Arc Court. Détruisez cette action après utilisation.
 
@@ -172,7 +172,7 @@ Cette action est retirée de votre **AP** à la fin du Round.
 | -------- | ------------- | ---------- |
 | Arc Long | Action        | Atq        |
 
-En effectuant une Atq, dépensez une action (Mouvement), devenez _Exposed_ jusqu'à la fin du round, effectuez une Atq avec avantage et ajoutez 2d4 dmg si l'Atq touche.
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) et une action (Mouvement) pour devenir _Exposed_ jusqu'à la fin du round, effectuer une Atq avec avantage et ajouter 2d4 Dmg si l'Atq touche.
 
 ---
 
@@ -182,7 +182,7 @@ En effectuant une Atq, dépensez une action (Mouvement), devenez _Exposed_ jusqu
 | -------- | ------------- | ---------- |
 | Revolver | Action        | Atq        |
 
-En effectuant une Atq, effectuez-la avec avantage. De plus, roulez 1d6 ; si le résultat est un 6, l'Atq est critique.
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour obtenir l'avantage surl'Atq. De plus, roulez 1d6 ; si le résultat est un 6, l'Atq est **critique**.
 
 ---
 
@@ -192,4 +192,4 @@ En effectuant une Atq, effectuez-la avec avantage. De plus, roulez 1d6 ; si le r
 | ----- | ------------- | ---------- |
 | Fusil | Action        | Atq        |
 
-En effectuant une Atq, effectuez-la avec avantage. Vous pouvez immédiatement _cycle_ le Fusil.
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour obtenir l'avantage surl'Atq, vous pouvez immédiatement _cycle_ le Fusil.
