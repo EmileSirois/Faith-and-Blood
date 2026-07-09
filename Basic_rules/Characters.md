@@ -38,7 +38,7 @@ Lorsqu'un Magus est profiscient avec une catégorie d'arme, il ajoute son modifi
 
 ### Caractéristiques:
 
-Les personnages possèdent 6 caractéristiques : Force, Agilité, Constitution, Intelligence, Foi et Volonté. Chaque point mis dans une statistique augmente le modificateur de cette statistique du même nombre, et certains chemins priorisent l’utilisation d’une ou deux caractéristiques, il est donc conseillé (mais pas obligatoire) de renforcer ces statistiques le plus possible. À la création du personnage, le joueur possède 8 points d’habileté lui permettant d’augmenter ses statistiques (Par exemple : F(4) A(2) C(1) I(0) F(0) V(1)). Le joueur peut aussi décider de sacrifier un ou deux points d’une caractéristique en particulier pour en augmenter d’autres, par exemple en décidant de commencer son personnage avec -2 de force et 10 d’intelligence.
+Les personnages possèdent 7 caractéristiques : Force, Agilité, Constitution, Intelligence, Foi, Charisme et Volonté. Chaque point mis dans une statistique augmente le modificateur de cette statistique du même nombre, et certains chemins priorisent l’utilisation d’une ou deux caractéristiques, il est donc conseillé (mais pas obligatoire) de renforcer ces statistiques le plus possible. À la création du personnage, le joueur possède 8 points d’habileté lui permettant d’augmenter ses statistiques (Par exemple : F(4) A(2) C(1) I(0) F(0) V(1)). Le joueur peut aussi décider de sacrifier un ou deux points d’une caractéristique en particulier pour en augmenter d’autres, par exemple en décidant de commencer son personnage avec -2 de force et 10 d’intelligence.
 
 ### Force:
 
@@ -46,7 +46,7 @@ La force détermine le dégât effectué en combat avec les attaques de mêlée,
 
 ### Agilité:
 
-L’agilité détermine le dégât effectué en combat avec els armes à distance, la chance de toucher avec les armes concealed et à distance, l’efficacité de l’Action de mouvement (distance parcourue), la capacité à éviter les attaques ennemies, l’ordre du combat (vigilance/réflexes) et les compétences associées avec l’agilité.
+L’agilité représente la capacité d'un Magus à se déplacer fluidement et agilement. L’agilité détermine le dégât effectué en combat avec els armes à distance, la chance de toucher avec les armes concealed et à distance, l’efficacité de l’Action de mouvement (distance parcourue), la capacité à éviter les attaques ennemies, l’ordre du combat (vigilance/réflexes) et les compétences associées avec l’agilité.
 
 ### Intelligence:
 
@@ -55,6 +55,10 @@ L’intelligence détermine les connaissances du personnage, qu'elles soient mys
 ### Foi:
 
 La foi d’un magus lui permet de passer par les plus difficiles épreuves, et sera bien souvent testée lorsque confrontée aux horreurs les plus immondes. La foi détermine la puissance des rituels et le nombre de rituels appris, ainsi que leur longueur. De plus, elle détermine les compétences associées associées avec la foi.
+
+### Charisme:
+
+Le Charisme d'un Magus représente sa capacité à influencer ceux autours de lui, de façon interpersonnelle ou intrinsèque. Le Chasiqme permet de persuader, mentir et influencer l'esprit d'autrui. Le charisme est une statistique reliée à touts les _skills_ de conversation.
 
 ### Constitution et Volonté:
 
