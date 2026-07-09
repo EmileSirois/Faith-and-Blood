@@ -67,18 +67,32 @@ Le bonus d'attaque des Incnatations et Miracles est déterminé par la statistiq
 
 Lorsqu'une incantation ou un rituel impose un jet de sauvegarde à un ennemi/allié, la difficulté de ce jet est calculée avec le **Bonus d'attaque** du Magus. Le calcul est : 10 + **Bonus d'attaque**. Par exemple, une Magus avec 8 d'intelligence aurait un **Save Dc** de 18.
 
-### Niveaux de Magie
+### Tables de Progression de Mana
 
-Toutes les incantations et tous les Miracles ont un Niveau, allant du niveau 0 au niveau 5. La Magie de niveau 5 est l'ultime ajout à l'arsenal d'un Magus et ne peut être obtenu qu'au niveau 9. La Magie de niveau 0 peut être utilisée par tous les Magus, dès le niveau 1, et certains Magus n'auront accès qu'à la Magie de niveau 0. Les Magus se découpent en 3 catégories en terme de connaissance de Magie :
+#### Full Caster
 
-- Non-Caster
-  - Apprenent la Magie Niveau 0 au niveau 1 et n'aobtiennent jamais de Sorts de Plus Haut Niveau.
-  - Les Non-Casters sont Généralement des Magus qui utilisent leurs Actions mystiques pour des habiletées, et sont plus enclins à utiliser des armes.
-- Half-Caster
-  - Apprennent la Magie de Niveau 0 et 1 au premier Niveau et continuent leur Progression selon la Table Ci-bas.
-  - Les Half Casters sont Généralement des Magus qui améliorent leur arsenal avec leur Magie, créant de puissants synergies entre les Sorts Choisis, leurs habiletées et leurs attaques d'Armes.
-    | Niveau |
+| Niveau de Magus | Mana Total |
+| --------------- | ---------- |
+| 1               | 2          |
+| 2               | 4          |
+| 3               | 6          |
+| 4               | 8          |
+| 5               | 10         |
+| 6               | 12         |
+| 7               | 14         |
+| 8               | 16         |
+| 9               | 20         |
 
-- Full-Caster
-  - Apprennent la Magie de Niveau 0 et 1 au premier Niveau et continuent leur Progression selon la Table Ci-bas.
-  - Les Full-Casters sont Généralement des Magus qui centre leur Arsenal sur l'utilisation de Puissante Magie capable de renverser le courrant d'un combat, et qui délaissent les armes et le combat en mêlée.
+#### Half Caster
+
+| Niveau de Magus | Mana Total |
+| --------------- | ---------- |
+| 1               | 1          |
+| 2               | 2          |
+| 3               | 3          |
+| 4               | 4          |
+| 5               | 5          |
+| 6               | 6          |
+| 7               | 7          |
+| 8               | 8          |
+| 9               | 10         |
