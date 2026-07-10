@@ -2,5 +2,48 @@
 
 ### Stunned
 
-La créature ne peut pas prendre d'Action **Attaquer** ou **Mystique**, et sa vitesse de mouvement est équivalente à (Vitesse / 2)
+La créature ne peut pas prendre d'Action **Attaquer** ou **Mystique**.
 
+---
+
+### Blinded
+
+La Créature est **Exposed** et **Faltered**. De plus, elle ne peut pas percevoir ce qui l'entourre et ne peut pas faire de _Check_ de perception incluant leurs yeux.
+
+---
+
+### Slowed
+
+La vitesse de mouvement de la créature est équivalente à (Vitesse / 2).
+
+---
+
+### Ensnared
+
+La Créature ne peut pas prendre D'action **Mouvement**.
+
+---
+
+### Restrained
+
+La Créature de peut pas prendre d'Action **Mouvement** ou **Attaquer**, elle est [**Exposed**](#exposed).
+
+---
+
+### Bleeding
+
+La créature subit 1d4 _Slashing_ Dmg à la fin de son Tour pour chaque _Stack_ de _Bleeding_ sur la créature. Chaque application de _Bleeding_ ajoute un _Stack_. Chaque Fois que la Créature subit du Dmg de _Bleeding_, un _Stack_ est enlevé.
+
+---
+
+### Exposed
+
+Les Atq en mêlée ont Avantage contre la créature.
+
+---
+
+### Faltered
+
+La créature à Désavantage sur ses Atq.
+
+---
