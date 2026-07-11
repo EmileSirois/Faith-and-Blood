@@ -60,7 +60,7 @@ En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood
 | --------------- | ------------- | ---------- |
 | Gants de Combat | Action        | Atq        |
 
-En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour infliger une Atq dévastatrice qui inflige le maximum possible sur les dés de dégâts. La cible doit réussir un jet de sauvegarde de Constitution ou être affectée par _Dazed_.
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour infliger une Atq dévastatrice qui inflige le maximum possible sur les dés de dégâts. La cible doit réussir un jet de sauvegarde de Constitution ou être affectée par [_Exposed_](../Conditions.md#exposed).
 
 ---
 
@@ -68,9 +68,9 @@ En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood
 
 | Arme               | Type d'action | Activation |
 | ------------------ | ------------- | ---------- |
-| Couteaux de Lancer | Action        | Atq        |
+| Couteaux de Lancer | Action        | Action Atq |
 
-En effectuant une Atq vace un Couteau de lancer, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour doubler le nombre de couteaux lancés lors de cette Atq.
+En prennant l'Action **Attaquer** avec un/plusieurs Couteaux de lancer, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour doubler le nombre de couteaux lancés lors de cette Atq.
 
 ---
 
@@ -90,7 +90,7 @@ Lorsque vous effectuez une Atq avec une Épée Courte, dépensez une charge de [
 | ------------------- | ------------- | ---------- |
 | Couteau de Tranchée | Action        | Atq        |
 
-En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour ajoutez 1d4 dégâts du type choisi (_Slashing_, _Bludgeoning_ ou _Piercing_). La cible doit réussir un jet de sauvegarde de Constitution ou subir l'effet correspondant (_Bleeding_, _Exposed_ ou _Faltered_).
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour ajoutez 1d4 dégâts du type choisi (_Slashing_, _Bludgeoning_ ou _Piercing_). La cible doit réussir un jet de sauvegarde de Constitution ou subir l'effet correspondant ([_Bleeding_](../Conditions.md#bleeding), [_Exposed_](../Conditions.md#exposed) ou [_Faltered_](../Conditions.md#faltered)).
 
 ---
 
@@ -100,7 +100,7 @@ En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood
 | ---------- | ------------- | ------------------------- |
 | Hallebarde | Réaction      | Entrée en portée de mêlée |
 
-Lorsqu'une créature entre à portée de mêlée, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) et utiliser une **Réaction** pour effectuer une Atq contre elle.
+Lorsqu'une créature entre à portée de mêlée, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) et utiliser une [**Réaction**](../Actions_conditionelles.md#) pour effectuer une Atq contre elle.
 
 ---
 
