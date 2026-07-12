@@ -16,4 +16,8 @@ au résultat de l'attaque ayant déclenché le **Parry**.
 
 Ex : Une Goule attaque un Magus, et le résultat de l'attaque est de 17. L'attaque toucherais le Magus, mais celui-ci décide d'essayer de **Parry** l'attaque. Le Magus effectue donc un Atq roll et obtiens 18, lui permettant de **Parry** l'attaque.
 
-SI le Magus échoue son **Parry**, le **Reaction Token** est tout de même utilisé.
+Si le Magus échoue son **Parry**, le **Reaction Token** est tout de même utilisé.
+
+### Parrying MultiAtq
+
+Une MultiAtq est une Action spéciale qui permet d'attaquer plusieurs fois avec la même action (Attaquer). Dans cette situation, un Magus doit reussir un roll de **Parry** contre le résultat d'attaque le plus haut de la MultiAtq. Dans le cas où il reussit, toutes les Atq sont **Parried**. Dasn le Cas où il échoue, toutes les Atq touchent.

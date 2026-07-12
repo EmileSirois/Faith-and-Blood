@@ -30,7 +30,7 @@ Dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement
 | ------- | ------------- | -------------- |
 | Rapière | Réaction      | Parade réussie |
 
-Après avoir paré une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour effectuer immédiatement une Atq contre l'attaquant.
+Après avoir [Parry](../Parrying.md) une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour effectuer immédiatement une Atq contre l'attaquant.
 
 ---
 
@@ -128,7 +128,7 @@ Lorsqu'une Atq est **bloquée**, dépensez une charge de [Tours de Force](/Faith
 | --------------- | ------------- | --------------- |
 | Dague de Parade | Réaction      | Échec de Parade |
 
-Lorsque vous échouez un jet de _Parry_, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour le relancer en y ajoutant votre bonus de maîtrise (_Proficiency Bonus_).
+Lorsque vous échouez un jet de [Parry](../Parrying.md), dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour le relancer en y ajoutant votre bonus de maîtrise (_Proficiency Bonus_).
 
 ---
 

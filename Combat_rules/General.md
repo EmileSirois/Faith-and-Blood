@@ -33,6 +33,6 @@ Chaque **Acteur** dispose chaque cycle d'une ou plusieurs réaction, représent�
 - Dans le cas où l'acteur connait et peut utiliser une [Incantation](Spells_lists/Incantation_list.md) ou un [Miracle](Spells_lists/Miracle_List.md) possédant une réaction comme temps d'utilisation.
 - Certains traits et _Pathes_ donne accès à des réaction spéciales, les mêmes règles générales s'appliquent à ces réactions.
 - Certains [_Tours de Force_](./Equipement_lists/Tours_de_Force_list.md) octroient une réaction spéciale pouvant être utilisée dans une situation spécifique.
-- Lorsqu'un **Acteur** est attaqué en mêlée, il peut tenter de [Parry]() l'attaque avec une réaction.
+- Lorsqu'un Magus est attaqué en mêlée, il peut tenter de [Parry](Parrying.md) l'attaque avec une réaction.
 
 Lorsqu'une réaction est utilisée, un **Reaction Token** est dépensé, sauf si spécifié autrement. Les **Reaction Tokens** est repris lors du début d'un nouveau **round**.
