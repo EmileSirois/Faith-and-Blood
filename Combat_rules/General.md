@@ -14,7 +14,7 @@ Le mot **Acteur** fait référence à une entité faisant partie de **l'ordre d'
 
 ### Séparation du combat:
 
-Un **round** est constitué de 3 **cycles**, et chaque **acteur** peut prendre une **action** par cycle, en respectant **L'ordre d'action**.
+Un **Round** est constitué de 3 **Cycles**, et chaque **Acteur** peut prendre une [**Action**](Actions.md) par cycle, en respectant [**L'ordre d'action**](#ordre-daction).
 
 ### Action pool:
 
@@ -30,9 +30,9 @@ Chaque **Acteur** dispose chaque cycle d'une ou plusieurs réaction, représent�
 
 - Si une créature quitte sa portée de mêlée, l'acteur qui réagis peut effectuer une attaque d'opportunité.
 - Dans le cas ou la condition d'une **Action conditionelle** est remplie, l'acteur prend l'action déterminée (se référer à la section sur les actions conditionnelles dans les règles de combat).
-- Dans le cas où l'acteur connait et peut utiliser une incantation possédant une réaction comme temps d'utilisation.
+- Dans le cas où l'acteur connait et peut utiliser une [Incantation](Spells_lists/Incantation_list.md) ou un [Miracle](Spells_lists/Miracle_List.md) possédant une réaction comme temps d'utilisation.
 - Certains traits et _Pathes_ donne accès à des réaction spéciales, les mêmes règles générales s'appliquent à ces réactions.
-- Certains [_Tours de Force_](./Equipement_lists/Tours_de_Force_list.md) octroient une reéaction spéciale pouvant être utilisée dans une situation spécifique.
-- Lorsqu'un **Acteur** est attaqué en mêlée, il peut tenter de [**Parry**] l'attaque avec une réaction.
+- Certains [_Tours de Force_](./Equipement_lists/Tours_de_Force_list.md) octroient une réaction spéciale pouvant être utilisée dans une situation spécifique.
+- Lorsqu'un **Acteur** est attaqué en mêlée, il peut tenter de [Parry]() l'attaque avec une réaction.
 
 Lorsqu'une réaction est utilisée, un **Reaction Token** est dépensé, sauf si spécifié autrement. Les **Reaction Tokens** est repris lors du début d'un nouveau **round**.
