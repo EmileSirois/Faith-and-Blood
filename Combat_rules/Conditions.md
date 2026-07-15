@@ -2,7 +2,7 @@
 
 ### Stunned
 
-La créature ne peut pas prendre d'Action **Attaquer** ou **Mystique**.
+La créature ne peut pas prendre d'Action **Attaquer** ou **Mystique**, et elle à Désavantage sur ses _Saving Throws_ d'Agilité et de Force.
 
 ---
 
