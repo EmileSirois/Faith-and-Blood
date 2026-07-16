@@ -8,7 +8,7 @@ La créature ne peut pas prendre d'Action **Attaquer** ou **Mystique**, et elle 
 
 ### Blinded
 
-La Créature est **Exposed** et **Faltered**. De plus, elle ne peut pas percevoir ce qui l'entourre et ne peut pas faire de _Check_ de perception incluant leurs yeux.
+La Créature est **Exposed** et **Faltered**. De plus, elle ne peut pas percevoir ce qui l'entourre et ne peut pas faire de _Check_ de perception incluant leurs yeux ou faire d'Atq à distance.
 
 ---
 
@@ -47,3 +47,9 @@ Les Atq en mêlée ont Avantage contre la créature.
 La créature à Désavantage sur ses Atq.
 
 ---
+
+### Perfect Vision
+
+La créature traite l'obscurité totale et l'obscurité partielle comme bien éclairé.
+
+vous référez aux règles sur les [niveaux de lumière](../Basic_rules/Light_levels.md) pour plus de détails.
