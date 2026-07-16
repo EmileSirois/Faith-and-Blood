@@ -53,3 +53,15 @@ La créature à Désavantage sur ses Atq.
 La créature traite l'obscurité totale et l'obscurité partielle comme bien éclairé.
 
 vous référez aux règles sur les [niveaux de lumière](../Basic_rules/Light_levels.md) pour plus de détails.
+
+---
+
+### Invisible
+
+La créature ne peut pas être perçue visuellement ou être prise comme cible d'une Atq à distance, et elle à un avanatage sur ses Atq.
+
+La condition Invisible n'est pas reliée à la créature qui l'est, mais aux créatures qui la perçoivent. Donc si une créature voit une autre créature invisible, celle-ci n'est plusn invisible, mais uniquement pour la créature qui l'a vue.
+
+Ex. : Une créature se cache dans [l'obscurité Totale](../Basic_rules/Light_levels.md#obscurité-totale) à 30 pieds d'un premier Magus qui à 30 pieds de Darkvision, et à 40 pieds d'un second Magus qui à 30 pieds de Darkvision, la créature n'est plus invisible pour le premier Magus, mais elle l'est encore pour le deuxième Magus. Le premier Magus pourrait donc attaquer la créature à distance, mais le second Magus ne pourrait pas.
+
+La condition Invisible prend fin si la créature Invisible Atq une autre cible en mêlée, ou si elle échoue un _Check_ de _Stealth_ contre une créature.

@@ -26,8 +26,16 @@ Une créature se trouvant dans un lieu Lumineux peut voir clairement son environ
 
 ### Obscurité Partielle
 
-Une créature se trouvant dans l'Obscurité partielle
+Une créature se trouvant dans l'Obscurité partielle est aussi en Couverture Partielle, elle à un désavantage sur ses ses _Checks_ de perceptions visuels et à un avantage sur ses _Checks_ de _Stealth_.
 
 ### Obscurité Totale
 
-Une Créature se trouvant dans l'Obscurité Totale est affectée par la conditions Blinded et Invisible.
+Une Créature se trouvant dans l'Obscurité Totale est affectée par la conditions [Blinded](../Combat_rules/Conditions.md#blinded) et Invisible.
+
+---
+
+### Darkvision
+
+Les Magus sont une espèce nocturne. Ils vivent la nuit, dorment le jour et existent dans l'obscurité, et ce mode de vie vient avec des sens plus développés dans l'obscurité, et une capacité à percevoir ce qui les entourre même dans les nuits le plus sombres. Tous les Magus ont, au niveau 1, Darkvision(30).
+
+Darkvision(X) : La créature perçoit l'obscurité Totale comme de l'obscurité Partielle et l'Obscurité Partielle comme du terrain Lumineux à X pieds autours d'eux. Ils perçoivent toujours ce qui est en mêlée comme étant Lumineux.
