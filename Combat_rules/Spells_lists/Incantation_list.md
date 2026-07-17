@@ -23,7 +23,7 @@
 | Surging Transmutation  | Damage          | Atq              | Non           | Dirigez un Éclair capable _D'arc_ entre des cibles                                    |
 | Freezing Transmutation | Damage          | Atq              | Non           | Formez des cristaux de glace sur une cible pour lui inlfliger des Dmg et la ralentir  |
 | Wardaway               | Damage/Controll | Atq/Saving Throw | Non           | Projetez une force mystique désorientante sur une cible pour la ralentir et la _Stun_ |
-| Command                | Controll        | Saving Throw     | Non           | Commandez une action à une cible, qu'elle doit effectuer sur son prochain tour        |
+| Master's order         | Controll        | Saving Throw     | Non           | Commandez une action à une cible, qu'elle doit effectuer sur son prochain tour        |
 | Afflict                | Damage          | N/A              | Oui           | Permet d'appliquer un _Debuff_ à une créature qui ajoute 1d6 Dmg chaque Atq           |
 | Maledict               | Controll        | Saving Throw     | Oui           | Enchantez un nombre de créatures pour réduire leurs attaques et _Saving Throws_       |
 

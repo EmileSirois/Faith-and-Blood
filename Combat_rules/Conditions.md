@@ -12,9 +12,9 @@ La Créature est **Exposed** et **Faltered**. De plus, elle ne peut pas percevoi
 
 ---
 
-### Slowed
+### Slowed (x)
 
-La vitesse de mouvement de la créature est équivalente à (Vitesse / 2).
+La vitesse de mouvement de la créature est réduite de X
 
 ---
 
@@ -65,3 +65,11 @@ La condition Invisible n'est pas reliée à la créature qui l'est, mais aux cr�
 Ex. : Une créature se cache dans [l'obscurité Totale](../Basic_rules/Light_levels.md#obscurité-totale) à 30 pieds d'un premier Magus qui à 30 pieds de Darkvision, et à 40 pieds d'un second Magus qui à 30 pieds de Darkvision, la créature n'est plus invisible pour le premier Magus, mais elle l'est encore pour le deuxième Magus. Le premier Magus pourrait donc attaquer la créature à distance, mais le second Magus ne pourrait pas.
 
 La condition Invisible prend fin si la créature Invisible Atq une autre cible en mêlée, ou si elle échoue un _Check_ de _Stealth_ contre une créature.
+
+---
+
+### Burning
+
+La créature, à la fin de chaque round, prend 1d8 Fire Dmg. Chaque application des Dmg enlève un tour de Burning. Si une créature est déjà affectée par Burning et qu'elle reçoit la condition Burning, ajoutez le nombre de tours appliqués aux tours restants.
+
+---
