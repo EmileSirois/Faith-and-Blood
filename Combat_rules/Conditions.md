@@ -48,7 +48,7 @@ La créature à Désavantage sur ses Atq.
 
 ---
 
-### Perfect Vision
+### Pure Sight
 
 La créature traite l'obscurité totale et l'obscurité partielle comme bien éclairé.
 

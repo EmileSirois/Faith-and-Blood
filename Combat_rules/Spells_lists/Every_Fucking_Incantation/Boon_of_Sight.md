@@ -11,6 +11,6 @@ Incantation de niveau 0
 **Durée** : 1 minute
 **Concentration** : Oui
 
-Vous enchantez 2 créatures en leur donnant [Perfect Vision](../../Conditions.md) pendant 1 minute, ou jusqu'à ce que votre concentration lâche.
+Vous enchantez 2 créatures en leur donnant [Pure Sight](../../Conditions.md#pure-sight) pendant 1 minute, ou jusqu'à ce que votre concentration lâche.
 
 Au Niveau 4, le nombre de créatures augmente à 3, et à 4 au niveau 9.
