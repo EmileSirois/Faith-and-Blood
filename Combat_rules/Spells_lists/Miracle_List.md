@@ -12,11 +12,12 @@
 
 ### Level 1
 
-| Name                 | type             | hit condition | Concentration | Description                                                                        |
-| -------------------- | ---------------- | ------------- | ------------- | ---------------------------------------------------------------------------------- |
-| Brilliant Detonation | Controll/Utility | Saving Throw  | Non           | Une brilliante détonation lumineuse capable de _Blind_ les créatures qui la voient |
-| Heal                 | Support          | N/A           | Non           | Soignez une créature de 2d4 PV                                                     |
-| Divine Melody        | Controll         | Saving Throw  | Oui           | Enchantez une créature pour la forcer à s'endormir                                 |
+| Name                 | type             | hit condition | Concentration | Description                                                                           |
+| -------------------- | ---------------- | ------------- | ------------- | ------------------------------------------------------------------------------------- |
+| Brilliant Detonation | Controll/Utility | Saving Throw  | Non           | Une brilliante détonation lumineuse capable de _Blind_ les créatures qui la voient    |
+| Heal                 | Support          | N/A           | Non           | Soignez une créature de 2d4 PV                                                        |
+| Divine Lullaby       | Controll         | Saving Throw  | Oui           | Enchantez une créature pour la forcer à s'endormir                                    |
+| Benediction          | Support          | N/A           | Oui           | Enchantez un nombre de créatures pour améliorer leurs Saving Throws et leurs attaques |
 
 ### Level 2
 

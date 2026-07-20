@@ -73,3 +73,7 @@ La condition Invisible prend fin si la créature Invisible Atq une autre cible e
 La créature, à la fin de chaque round, prend 1d8 Fire Dmg. Chaque application des Dmg enlève un tour de Burning. Si une créature est déjà affectée par Burning et qu'elle reçoit la condition Burning, ajoutez le nombre de tours appliqués aux tours restants.
 
 ---
+
+### Sleeping
+
+La créature est endormie, elle ne peut pas prendre d'Action, et toutes les Atq faites en Mêlée sont faites avec Avantage, et sont critiques si elles touchent. Si une créatures ayant la condition Sleeping reçoit du Dmg, elle se réveille immédiatement.
