@@ -8,6 +8,7 @@ Un Magus sur le _path_ du Chasseur est un _Striker longue distance_ et un _buffi
 
 ### Profiscience
 
+Modificateur de PV : 2
 Entraînement avec les amres de chasse : Le Magus est profiscient avec les armes de chasse.
 Entraînement aux armures légères : Le Magus est profiscient avec les armures légères
 Jets de sauveguarde : Le magus est profiscient dans les jets de sauveguarde d'Agilité et d'Intelligence.
@@ -48,7 +49,7 @@ Le Chasseur peut traquer une proie sans effort, se fiant à son expérience et l
 
 ---
 
-#### Niveau 2 : Extra Actions 
+#### Niveau 2 : Extra Actions
 
 Le Chasseur gagne les prochaines Actions dans son **AP** :
 

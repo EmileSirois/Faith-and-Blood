@@ -62,7 +62,7 @@ Le Charisme d'un Magus représente sa capacité à influencer ceux autours de lu
 
 ### Constitution et Volonté:
 
-La constitution et la Volonté n'ont pas de _skill_ reliés à leur valeur, mais déterminent respectivement Les points de vie et la santée mentale d'un personnage. Cependant, de nombreuses attaques et effets en combat demanderont un _roll_ de Constitution ou de volonté afin de résister un effet ou un _debuff_.
+La constitution et la Volonté n'ont pas de _skill_ reliés à leur valeur, mais déterminent respectivement Les [points de vie](Health.md) et la [santée mentale](Mental_Health.md) d'un personnage. Cependant, de nombreuses attaques et effets en combat demanderont un _roll_ de Constitution ou de volonté afin de résister un effet ou un _debuff_.
 
 ### Santé et Santé mentale:
 

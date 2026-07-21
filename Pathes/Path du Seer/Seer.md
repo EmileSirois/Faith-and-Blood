@@ -8,6 +8,7 @@ Un Magus sur le Path du Seer est un _Ability Caster_ et un _Full Caster_, se con
 
 ### Profiscience
 
+Modificateur de PV : 1
 Jets de sauveguarde : Le magus est profiscient dans les jets de sauveguarde d'Intelligence et de Willpower.
 _Skills_: perception, histoire, insight.
 

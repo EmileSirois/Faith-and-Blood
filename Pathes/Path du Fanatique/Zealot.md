@@ -6,6 +6,7 @@ Le Zealot est un _Melee Striker_ et un _Tank_, utilisant sa Foi et ses croyances
 
 ### Profiscience
 
+Modificateur de PV : 3
 Martial Weapon Training : Le Magus est profiscient avec les armes martiales.
 Jets de sauveguarde : Le magus est profiscient dans les jets de sauveguarde de Foi, de Constitution et de Volonté.
 _Skills_: perception, discretion, survie.

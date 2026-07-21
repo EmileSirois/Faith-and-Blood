@@ -11,6 +11,6 @@ Miracle de niveau 1
 **Durée** : Instantanée
 **Concentration** : Non
 
-Vous utilisez votre énergie Divine pour soigner les plaies d'une créature. La cible reprend 2d4 PV.
+Vous utilisez votre énergie Divine pour soigner les plaies d'une créature. La cible reprend 2d4 PV. La créature re^coit aussi des [Soins Mineurs](../../../Basic_rules/Health.md#niveaux-de-soins).
 
 Chaque niveau de Miracle au dessus de 1 augmente les soins de 1d4.
