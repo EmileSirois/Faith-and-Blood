@@ -7,6 +7,8 @@ De nombreuses œuvres inspirent artistiquement ce setting, et je ne prétend pas
 
 Bien sûr, toutes les idées de mysticisme et d’occultisme me viennent de sources variées comme Lord of mysteries, du folklore et de films occultes multiples. De plus, certaines mécaniques sont fortement inspirées du système de Donjon et Dragons, des jeux vidéos Darkest Dungeon et Slay the Spire ainsi que Warhammer kill Team et Warhammer: rogue Trader.
 
+Concrètement, Faith and Blood est un jeux de table et un jeux de rôle, mais surtout un jeux d'Action, de combat et de survie. Les règles iront beaucoup plus en profondeur dans les aspects du combat, les interractions entre les forces mystiques, les séquences de recherche et de traquege et les Backlash qui viennet avec le fait de se battre contre des monstres et des atrocitées de la Nuit. Faith and Blood est un jeux de rôle, mais le Roleplaying n'est pas un pilier central dans son Design.
+
 Entrons donc dans l'univers de Faith and Blood...
 
 ### Contexte
