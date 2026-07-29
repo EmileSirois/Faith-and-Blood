@@ -2,7 +2,7 @@
 
 ### Définition
 
-Le Background d'un Magus représente son origin, l'endroit ou il à grandis ou son ancienne occupation. Tous les Background ont un élément de Mécaniques qui sont utiles dans la création d'un Personnage, mais peuvent aussi être choisis pour des choix purerment esthétiques ou Role-Play focused.
+Le Background d'un Magus représente son origine, l'endroit ou il à grandis ou son ancienne occupation. Tous les Background ont un élément de Mécaniques qui sont utiles dans la création d'un Personnage, mais peuvent aussi être choisis pour des choix purerment esthétiques ou Role-Play focused.
 
 ### Choix de Background
 

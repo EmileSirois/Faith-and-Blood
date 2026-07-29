@@ -25,14 +25,21 @@ Il existe plusieurs moyens de regagner les PSM, que ce soit avec des incantation
 - #### Beleive in Them
   - Le Magus tente un check de Religion (10 + PSM négatif), et s'il réussit, il regagne (Foi + 1) PSM.
 
+Prendre l'Action de se calmer peut être néscéssaire à votre survie, ou peut rendre votre expérience encore plus difficile, en vous remettant dans une situation où vous pouvez retomber dans la folie.
+
 # Table d'affliction Mentale
 
 Lorsque la Source de l'Affliction est mentionnée, cela fait référence à la créature, à l'événement ou à la magie qui a occasionné le Roll de Trauma.
 
-| d20 | Affliction  | Effet                                                                                                                                  | Guérison                                         |
-| --- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| 1   | Panique     | Vous ne pouvez pas prendre d'action, vous perdez le contrôle de votre personne                                                         | Traitement psychiatrique Avancé ou repos complet |
-|     | Terreur     | Vous êtes affecté par la condition Terreur, en utilisant la source du Roll comme cible                                                 | Traitement psychiatrique Mineur, repos           |
-|     | Cauchemars  | Des cauchemars vous empêchent de vous reposer et de dormir pendant plus qu'1 heure                                                     | Traitement psychiatrique Médian                  |
-|     | Post-Trauma | La présence ou même la mention de la Source néscéssite un Saving Throw de volonté, sinon quoi vous êtes affectés par la condition Peur | Traitement psychiatrique Médian                  |
-|     | Peur        | Vous avez un Désavantage sur touts vos _Saving Throws_ de Volonté et de Foi tant que vous êtes instable                                | Vous calmer, halte                               |
+| d20   | Affliction | Effet                                                                                                                                   | Guérison                                             |
+| ----- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| 1     | Panique    | Vous ne pouvez pas prendre d'action, vous perdez le contrôle de votre personne.                                                         | Traitement psychiatrique Avancé, Attendre 1d6 jours  |
+| 2     | Psychose   | Vous devez reussir un ST d'intelligence chaque round ou Percevoir vos Alliés comme vos Ennemis.                                         | Traitement psychiatrique Avancé, Attendre 1d4 jours  |
+| 2-3   | Paranoïa   | Vous ne pouvez pas bénificier des effets bénéfiques fourbis par vos alliés.                                                             | Traitement psychiatrique Avancé, Attendre 1d4 jours  |
+| 4-5   | Voix       | Vous entendez des voix, empêchant la concentreration. Vous avez désavantage sur Checks de Concentration, d'intelligence, ST de Volonté. | Traitement Psychiatrique Avancé, Attendre 1d10 jours |
+| 5-7   | Cauchemars | Des cauchemars vous empêchent de vous reposer, Chaque jour vous njoute un Point de Fatigue.                                             | Traitement psychiatrique Médian, Attendre 1d6 jours  |
+| 8-9   | Phobie     | Vous développez une phobie, vous êtes [Terrifié](../Combat_rules/Conditions.md) en sa présence.                                         | Traitement psychiatrique Médian, Attendre 1d8 jours  |
+| 11-13 | Terreur    | Vous êtes affecté par la condition [Terreur](../Combat_rules/Conditions.md), en utilisant la source du Roll comme cible.                | Traitement psychiatrique Mineur, Vous calmer         |
+| 14-15 | Peur       | Vous avez un Désavantage sur touts vos _Saving Throws_ de Volonté et de Foi tant que vous êtes instable.                                | Vous calmer, halte                                   |
+| 15-16 | Silence    | Vous perdez la capacité de parler.                                                                                                      | Traitement Psychiatrique Mineur, Attendre 1d4 jours. |
+| 17-20 | Résilient  | Aucun Effet, vous résistez à la folie.                                                                                                  |                                                      |

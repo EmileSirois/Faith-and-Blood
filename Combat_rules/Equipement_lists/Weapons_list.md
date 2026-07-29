@@ -14,7 +14,7 @@
 | Bouclier            |                  | [Protection(2)](Weapon_property_list.md)                                  | [Shield Bash](Tours_de_Force_list.md#shield-bash)                           |
 | Dague de Parade     | 1d4 Slashing     | [Protection(1), Finesse, Light](Weapon_property_list.md)                  | [Quick Parry](Tours_de_Force_list.md#quick-parry)                           |
 | **Armes Martiales** |                  |                                                                           |                                                                             |
-| Hache               | 1d8 Slashing     | [Versatile(1d10)](Weapon_property_list.md)                                | -                                                                           |
+| Hache               | 1d8 Slashing     | [Heavy(3), Versatile(1d10)](Weapon_property_list.md)                                | -                                                                           |
 | Rapière             | 1d8 Piercing     | [Finesse](Weapon_property_list.md)                                        | [Riposte](Tours_de_Force_list.md#riposte)                                   |
 | Falchion            | 1d8 Slashing     | [Crushing, Heavy(3)](Weapon_property_list.md)                             | [Heavy Hit](Tours_de_Force_list.md#heavy-hit)                               |
 | Cimeterre           | 1d6 Slashing     | [Light, Finesse](Weapon_property_list.md)                                 | -                                                                           |
@@ -34,5 +34,5 @@
 | Arc Long            | 1d10 Piercing |                                                           | [Mighty Shot](Tours_de_Force_list.md#mighty-shot)                   |
 | **Armes à feu**     |               |                                                           |                                                                     |
 | Revolver            | 1d8 Piercing  | [Reload(6), Ammunition](Weapon_property_list.md)          | [Trickshot](Tours_de_Force_list.md#trickshot)                       |
-| Arquebuse           | 2d6 Piercing  | [Reload(1), Ammunition](Weapon_property_list.md)          | -                                                                   |
-| Fusil               | 2d6 Piercing  | [Cycling, Reload(5), Ammunition](Weapon_property_list.md) | [Controlled Breathing](Tours_de_Force_list.md#controlled-breathing) |
+| Fusil à Culasse     | 2d6 Piercing  | [Reload(1), Ammunition](Weapon_property_list.md)          | -                                                                   |
+| Fusil à Verrou      | 2d6 Piercing  | [Cycling, Reload(5), Ammunition](Weapon_property_list.md) | [Controlled Breathing](Tours_de_Force_list.md#controlled-breathing) |
