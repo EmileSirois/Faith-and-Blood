@@ -3,7 +3,7 @@
 ### Actions de base:
 
 - #### Mouvement
-  - Le mouvement d'un acteur est déterminé apar sa statistique d'agilité (20 + (Agilité \* 5) pieds)
+  - Le mouvement d'un acteur est déterminé par sa statistique d'agilité (20 + (Agilité \* 5) pieds)
   - Lorsqu'une carte de mouvement est utilisée, l'acteur peut bouger une distance égale à sa caractéristique de mouvement
 - #### Attaque
   - L'action d'attaquer peut être prise avec une arme à distance, une arme de mêlée, à mains nues ou magiquement avec certains Pathes.

@@ -115,6 +115,20 @@ Lorsqu'une incantation ou un rituel impose un jet de sauvegarde à un ennemi/all
 | 8               | 4                               | 4                   |
 | 9               | 5                               | 5                   |
 
+#### Half Caster Incantation
+
+| Niveau de Magus | Niveau d'Incantaions Disponible | Niveau d'Empowering |
+| --------------- | ------------------------------- | ------------------- |
+| 1               | 1                               | 1                   |
+| 2               | 1                               | 1                   |
+| 3               | 1                               | 2                   |
+| 4               | 1                               | 2                   |
+| 5               | 2                               | 2                   |
+| 6               | 2                               | 3                   |
+| 7               | 2                               | 3                   |
+| 8               | 3                               | 3                   |
+| 9               | 3                               | 4                   |
+
 ---
 
 #### Miracle
@@ -130,3 +144,17 @@ Lorsqu'une incantation ou un rituel impose un jet de sauvegarde à un ennemi/all
 | 7               | 4                            | 7                       |
 | 8               | 4                            | 8                       |
 | 9               | 5                            | 9                       |
+
+#### Half Caster Miracle
+
+| Niveau de Magus | Niveau de Miracle Disponible | Niveau de Manifestation |
+| --------------- | ---------------------------- | ----------------------- |
+| 1               | 1                            | 1                       |
+| 2               | 1                            | 2                       |
+| 3               | 1                            | 2                       |
+| 4               | 1                            | 3                       |
+| 5               | 2                            | 3                       |
+| 6               | 2                            | 4                       |
+| 7               | 2                            | 4                       |
+| 8               | 3                            | 5                       |
+| 9               | 3                            | 6                       |
