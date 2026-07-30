@@ -193,3 +193,13 @@ En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood
 | Fusil | Action        | Atq        |
 
 En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour obtenir l'avantage surl'Atq, vous pouvez immédiatement _cycle_ le Fusil.
+
+---
+
+### Venom Bite
+
+| Arme          | Type d'action | Activation |
+| ------------- | ------------- | ---------- |
+| Viper's Fangs | Action        | Atq        |
+
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour effectuer 1d4 Piercing + 1d10 poison Dmg. La cible doit reussir un Saving Throw de Constitution, sinon quoi il est affecté par la conditoin [Poisoned](../Conditions.md#)

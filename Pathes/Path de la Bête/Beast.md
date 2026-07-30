@@ -14,6 +14,8 @@ _Skills_: perception, discretion, survie.
 
 ### Casting
 
+La Beast n'est pas un Caster, il ne peut donc qu'apprendre des incantations de niveau 0. Le nombre d'incantations connues est équivalent à (modificateur d'intelligence / 2). La Beast utilise son (Modificateur d'intelligence) pour son bonus d'attaque avec les Incantations et son spell save dc est équivalent à (10 + Modificateur d'intelligence)
+
 ### Path progression
 
 | Niveau | Features | Profiscience |
@@ -56,6 +58,12 @@ Certaines altérations s'améliorent avec le temps, référez vous à la version
 
 Pour la liste complète des altérations, référez vous au document des [altérations](Bestial_Alterations.md).
 
+##### Sharp Instincts
+
+###### Les sens du Magus sont à l'affus, prêt à réagir aux moindres bruits.
+
+Vous fiates vos checks associés avec vos sens avec profiscience, et vous ne pouvez as être surpris.
+
 ---
 
 #### Niveau 2 :
@@ -68,9 +76,9 @@ Pour la liste complète des altérations, référez vous au document des [altér
 
 #### Niveau 4 : Class Feature
 
-##### Nom
+##### Animalistic Tactics
 
-###### Flavor text
+###### La bête se projette violament sur son adversaire, et lui arrache violement la trachée, d'un mouvement précis et décisif
 
 ---
 

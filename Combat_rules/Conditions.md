@@ -77,3 +77,20 @@ La créature, à la fin de chaque round, prend 1d8 Fire Dmg. Chaque application 
 ### Sleeping
 
 La créature est endormie, elle ne peut pas prendre d'Action, et toutes les Atq faites en Mêlée sont faites avec Avantage, et sont critiques si elles touchent. Si une créatures ayant la condition Sleeping reçoit du Dmg, elle se réveille immédiatement.
+
+---
+
+### Poisoned
+
+La créature prend 1d6 Poison Dmg a la fin de chaque round, Selon le point d'entrée du poison (Bras, Jambre, ingéré), vous recevez une condition différente :
+
+- Jambe
+  - Votre vitesse est réduite de 10 pieds.
+- Bras
+  - Les Atq faites avec le bras empoisonné sont faites avec Désavantage.
+- Ingéré
+  - Le Dmg augmente à 2d6 poison Dmg chaque round.
+
+La conditoin Poisinned peut être retirée par des [Soins Médians](../Basic_rules/Health.md#niveaux-de-soins)
+
+---
