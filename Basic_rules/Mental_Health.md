@@ -27,7 +27,11 @@ Il existe plusieurs moyens de regagner les PSM, que ce soit avec des incantation
 
 Prendre l'Action de se calmer peut être néscéssaire à votre survie, ou peut rendre votre expérience encore plus difficile, en vous remettant dans une situation où vous pouvez retomber dans la folie.
 
-# Table d'affliction Mentale
+### Événements traumatiques
+
+Les événements traumatiques sont des événement particulièrerment difficile sur la santé mentale d'un Magus, et elles forcent un ST de trauma. Certains traumatiques sont plus intenses que d'autres, et infligeront une pénilaté au check.
+
+### Table d'affliction Mentale
 
 Lorsque la Source de l'Affliction est mentionnée, cela fait référence à la créature, à l'événement ou à la magie qui a occasionné le Roll de Trauma.
 
