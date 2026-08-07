@@ -10,6 +10,7 @@ Modificateur de PV : 2
 Entraînement aux armes improvisées : Le Magus est profiscient avec les armes improvisées
 Entraînement aux armures légères : Le Magus est profiscient avec les armures légères
 Jets de sauveguarde : Le magus est profiscient dans les jets de sauveguarde d'Intelligence et de Volonté.
+Profiscience en Lore, 
 
 ### Casting
 

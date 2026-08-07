@@ -2,7 +2,7 @@
 
 ### Points de Vie
 
-Les pints de vie d'un Magus représentent la quantité de Dmg qu'il peut endurer avant de perdre conscience, et potentiellement mourir. Le total de PV est calculé avec la formule suivante : ((Path Modifier + Constitution) \* Level). Le Path Modifier est un Modivficateur de Pv associé à chaque Path. Certains Pathes auront nuturrelement plus de PV, particulièrement ceux se retrouvant en mêlée.
+Les pints de vie d'un Magus représentent la quantité de Dmg qu'il peut endurer avant de perdre conscience, et potentiellement mourir. Le total de PV est calculé avec la formule suivante : ((Path Modifier + Constitution) \* Level + 1). Le Path Modifier est un Modivficateur de Pv associé à chaque Path. Certains Pathes auront nuturrelement plus de PV, particulièrement ceux se retrouvant en mêlée.
 
 ### Proche de la Mort
 
@@ -11,6 +11,8 @@ Lorsqu'un Msgus atteint 0 PV, il est effecté par le condition Unconscious. De p
 Les Death Defy Throws sont des Saving Throws de Constitution (10). La difficulté est toujours le même, sauf si mentionné autrement.
 
 Si un Magus prend du Dmg en étant Proche de la Mort, Il doit reussir un Death Defy Throw dont la difficulté est basée sur le Dmg subis, en utilisant la formule suivante : (Dmg / 2). Ceci est valable pour toutes les **Instances** de Dmg.
+
+Si un Magus se retourve proche de la mort plus d'une fois avant de prendre un repos, il ajoute immédiatement un Failed Defy à son total, et ce à chaque fois qu'il retonbe proche de la mort. Donc si il tombe 4 fois proche de la mort, même s'il à reussi tout ses Death Defy throws, il meurt immédiatement.
 
 ### Stabilisé
 

@@ -8,7 +8,7 @@
 | Stiletto            | 1d4 Piercing     | [Light, Finesse, Concealed](Weapon_property_list.md)                      | [Rapid Concision](Tours_de_Force_list.md#rapid-concision)                   |
 | Gourdin             | 1d4 Bludgeoning  | [Light, Concealed](Weapon_property_list.md)                               | -                                                                           |
 | Lance               | 1d6 Piercing     | [Thrown(40/60), Versatile(1d8), Reach](Weapon_property_list.md)           | [Lunge](Tours_de_Force_list.md#lunge)                                       |
-| Gants de Combat     | 1d4 Bludgeoning  | [Light, Concealed](Weapon_property_list.md)                               | [Bodyshot](Tours_de_Force_list.md#bodyshot)                                 |
+| Dusters     | 1d4 Bludgeoning  | [Light, Concealed](Weapon_property_list.md)                               | [Bodyshot](Tours_de_Force_list.md#bodyshot)                                 |
 | Couteau de Tranchée | 1d4 Any DMG Type | [Light, Concealed](Weapon_property_list.md)                               | [Lacerate, Crush, Puncture](Tours_de_Force_list.md#lacerate-crush-puncture) |
 | Canne               | 1d6 Bludgeoning  | [Finesse](Weapon_property_list.md)                                        | -                                                                           |
 | Bouclier            |                  | [Protection(2)](Weapon_property_list.md)                                  | [Shield Bash](Tours_de_Force_list.md#shield-bash)                           |

@@ -73,7 +73,7 @@ Lorsqu'une incantation ou un rituel impose un jet de sauvegarde à un ennemi/all
 
 | Niveau de Magus | Mana Total |
 | --------------- | ---------- |
-| 1               | 2          |
+| 1               | 3          |
 | 2               | 4          |
 | 3               | 6          |
 | 4               | 8          |

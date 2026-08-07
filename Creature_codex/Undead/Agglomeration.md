@@ -9,8 +9,8 @@ Taille : Large
 
 ##### Stats
 
-Classe d'armure : 10
-Hit points : 45
+Classe d'armure : 14
+Hit points : 60
 
 ---
 
@@ -39,7 +39,7 @@ Profisciency +3
 
 ##### Actions
 
-2 Attaquer : Atq à main nue, +5 pour toucher, (1d8 + 2) Bludgeoning Dmg
+2 Attaquer : Atq à main nue, +5 pour toucher, (1d10 + 2) Bludgeoning Dmg
 Mouvement : 30 pieds
 Mystique :
 Incorpore ( recharge 5+) :
