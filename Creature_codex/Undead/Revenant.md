@@ -39,8 +39,8 @@ Profisciency +2
 
 ##### Actions
 
-Attaquer : Atq à main nue, +4 pour toucher, (1d6 + 1) Bludgeoning Dmg
+Attaquer : Atq à main nue, +4 pour toucher, (1d4 + 1) Bludgeoning Dmg
 Mouvement : 20 pieds
 Mystique :
 Maddening Bite (Rechange 6) :
-Sacrifiez une Action Attaquer ce round ci, Atq en mêlée +5 pour toucher, (1d4 + 1) Piercing Dmg + (1d4) Necrotic Dmg. Si l'Atq touche, la cible doit reussir un ST de Volonté(10) ou subir 1d4 Mental Dmg.
+Atq en mêlée +5 pour toucher, (1d6 + 1) Necrotic Dmg. Si l'Atq touche, la cible doit reussir un ST de Volonté(10) ou subir 1d4 Mental Dmg.

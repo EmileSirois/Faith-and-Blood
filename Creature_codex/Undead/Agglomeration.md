@@ -10,7 +10,7 @@ Taille : Large
 ##### Stats
 
 Classe d'armure : 14
-Hit points : 60
+Hit points : 40
 
 ---
 
@@ -35,11 +35,15 @@ Profisciency +3
 
 ##### Habiletées
 
+Disgusting Attrocity : toute créature hostile se trouvant à moins de 10 pieds de l'agglomération à la fin de son tour doit reussir un ST de Volonté ou être affecté par la condition [Faltered](../../Combat_rules/Conditions.md#)
+
 ---
 
 ##### Actions
 
-2 Attaquer : Atq à main nue, +5 pour toucher, (1d10 + 2) Bludgeoning Dmg
+2 Attaquer :
+Corpse Bludgeon : Atq à main nue, +5 pour toucher, (1d10 + 2) Bludgeoning Dmg
+Corpse Throw : Atq à distance, projette un corps le composant, pers 1d4 PV, Atq à distance +5 pour toucher, (1d8 + 2) Bludgeoning Dmg
 Mouvement : 30 pieds
 Mystique :
 Incorpore ( recharge 5+) :
