@@ -62,7 +62,7 @@ Pour la liste complète des altérations, référez vous au document des [altér
 
 ###### Les sens du Magus sont à l'affus, prêt à réagir aux moindres bruits.
 
-Vous fiates vos checks associés avec vos sens avec profiscience, et vous ne pouvez as être surpris.
+Vous faites vos checks associés avec vos sens avec profiscience, et vous ne pouvez pas être surpris.
 
 ---
 

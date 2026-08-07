@@ -4,7 +4,7 @@
 
 ###### Le Seer balance son catalyste mystique tel une pendule, le menant vers la vérité, les réponses qu'il désire obtenir se rapprochant avec chaque incantation de prescience.
 
-Un Magus sur le Path du Seer est un _Ability Caster_ et un _Full Caster_, se concentrant sur la _utility_ et le support de son son groupe. Il est un _full Caster_ d'incantations utilisant son **intelligence** comme statistique principale. Le seer à la capacité de voir dans le futur et d'obtenir des réponses à ses questions avec ses habilitées. À heut niveau, le Seer possède une prescience presque inévitable pour ses ennemis, et il peut anticiper sans difficulté les mouvements de ses adversaires.
+Un Magus sur le Path du Seer est un _Ability Caster_ et un _Full Caster_, se concentrant sur la _utility_ et le support de son son groupe. Il est un _full Caster_ d'incantations utilisant son **intelligence** comme statistique principale. Le seer à la capacité de voir dans le futur et d'obtenir des réponses à ses questions avec ses habilitées. À haut niveau, le Seer possède une prescience presque inévitable pour ses ennemis, et il peut anticiper sans difficulté les mouvements de ses adversaires.
 
 ### Profiscience
 
@@ -14,7 +14,7 @@ _Skills_: perception, Lore, insight.
 
 ### Casting
 
-Le Seer est un _full Caster_ d'incantations et il utilise son intelligence comme statistique de _casting_. Se fier à la **Table de progression de Caster** pour la progression des _slots d'incantation_.
+Le Seer est un _full Caster_ d'incantations et il utilise son intelligence comme statistique de _casting_. Se fier aux [règles de casting](../../Basic_rules/Casting.md) pour la progression du Mana et des niveaux d'incantation.
 
 ### Path progression
 

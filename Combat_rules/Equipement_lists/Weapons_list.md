@@ -8,13 +8,13 @@
 | Stiletto            | 1d4 Piercing     | [Light, Finesse, Concealed](Weapon_property_list.md)                      | [Rapid Concision](Tours_de_Force_list.md#rapid-concision)                   |
 | Gourdin             | 1d4 Bludgeoning  | [Light, Concealed](Weapon_property_list.md)                               | -                                                                           |
 | Lance               | 1d6 Piercing     | [Thrown(40/60), Versatile(1d8), Reach](Weapon_property_list.md)           | [Lunge](Tours_de_Force_list.md#lunge)                                       |
-| Dusters     | 1d4 Bludgeoning  | [Light, Concealed](Weapon_property_list.md)                               | [Bodyshot](Tours_de_Force_list.md#bodyshot)                                 |
+| Dusters             | 1d4 Bludgeoning  | [Light, Concealed](Weapon_property_list.md)                               | [Bodyshot](Tours_de_Force_list.md#bodyshot)                                 |
 | Couteau de Tranchée | 1d4 Any DMG Type | [Light, Concealed](Weapon_property_list.md)                               | [Lacerate, Crush, Puncture](Tours_de_Force_list.md#lacerate-crush-puncture) |
 | Canne               | 1d6 Bludgeoning  | [Finesse](Weapon_property_list.md)                                        | -                                                                           |
 | Bouclier            |                  | [Protection(2)](Weapon_property_list.md)                                  | [Shield Bash](Tours_de_Force_list.md#shield-bash)                           |
 | Dague de Parade     | 1d4 Slashing     | [Protection(1), Finesse, Light](Weapon_property_list.md)                  | [Quick Parry](Tours_de_Force_list.md#quick-parry)                           |
 | **Armes Martiales** |                  |                                                                           |                                                                             |
-| Hache               | 1d8 Slashing     | [Heavy(3), Versatile(1d10)](Weapon_property_list.md)                                | -                                                                           |
+| Hache               | 1d8 Slashing     | [Heavy(3), Versatile(1d10)](Weapon_property_list.md)                      | [Cleave](./Tours_de_Force_list.md#cleave)                                   |
 | Rapière             | 1d8 Piercing     | [Finesse](Weapon_property_list.md)                                        | [Riposte](Tours_de_Force_list.md#riposte)                                   |
 | Falchion            | 1d8 Slashing     | [Crushing, Heavy(3)](Weapon_property_list.md)                             | [Heavy Hit](Tours_de_Force_list.md#heavy-hit)                               |
 | Cimeterre           | 1d6 Slashing     | [Light, Finesse](Weapon_property_list.md)                                 | -                                                                           |
@@ -23,6 +23,7 @@
 | Masse               | 2d6 Bludgeoning  | [Heavy(5), Two-Handed](Weapon_property_list.md)                           | -                                                                           |
 | Hallebarde          | 1d10 Slashing    | [Heavy(4), Two-Handed, Reach](Weapon_property_list.md)                    | [Hold The Line](Tours_de_Force_list.md#hold-the-line)                       |
 | Sabre de Cavalerie  | 1d8 Slashing     | [Protection(1)](Weapon_property_list.md)                                  | -                                                                           |
+| Urumi               | 1d6 Slashing     | [Light, Finesse, reach](Weapon_property_list.md)                          | [Whirling Blade]()                                                              |
 
 ### Armes à Distance:
 

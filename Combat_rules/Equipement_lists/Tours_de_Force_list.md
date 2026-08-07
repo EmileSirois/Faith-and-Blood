@@ -203,3 +203,25 @@ En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood
 | Viper's Fangs | Action        | Atq        |
 
 En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour effectuer 1d4 Piercing + 1d10 poison Dmg. La cible doit reussir un Saving Throw de Constitution, sinon quoi il est affecté par la conditoin [Poisoned](../Conditions.md#)
+
+---
+
+### Cleave
+
+| Arme  | Type d'action | Activation |
+| ----- | ------------- | ---------- |
+| Hache | Action        | Atq        |
+
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour effectuer une Atq supplémentaire sur une seconde cible se situant en mêlée avec vous.
+
+---
+
+### Whirling Blade
+
+| Arme  | Type d'action | Activation |
+| ----- | ------------- | ---------- |
+| Urumi | Action        | Atq        |
+
+En effectuant une Atq, dépensez ne charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour effectuer votre Atq avec une Range doublée, et ajoutez-y 1d4 Dmg.
+
+--- 
