@@ -41,18 +41,22 @@ Le Croyant connait plus de Miracles que la moyenne des Magus, et peut ajouter so
 
 Le Croyant peut aussi apprendre de nouveaux miracles en consultant des textes religieux, et le sjouter aux Miracles qu'il connait avec un temps d'étude équivalent à (4 \* Niveau de miracle) heures.
 
-##### Radiant Protector
+##### Radiant Miracles
 
-###### Les miracles du Croyant semble être frita de lumière solide, les dieux mêmes semblent vouloir le succès de leur plus dévoué croyant.
+###### Les miracles du Croyant semble être faits de lumière solide, les dieux mêmes semblent vouloir le succès de leur plus dévoué croyant.
 
-Les miracles du Croyant capable de prendre ses alliés pour cible afin de leur octroyer des dénéfices reçoivent des bonus :
+Les miracles du Croyant capable de prendre ses alliés pour cible afin de leur octroyer des dénéfices reçoivent des bonus, vous pouvez choisir un bonus parmis les suivants : 
 
-- Miracles de Soin:
-  - Le soin est augmenté d'1d4
-- Miracles de Support:
-  - La durrée du miracle est doublée
-- Miracles de Buff:
-  - Vous pouvez affecter une cible supplémentaire
+- Radiant Healer
+  - Vos Miracles de Healing soignent de 1d4 supplémentaire
+- Radiant Protector
+  - Vos Miracles de Buff peuvent affecter une cible supplémentaire
+- Radiant Enabler
+  - Vos Miracles de Utility ont leur durrée doublée
+- Radiant Smiter
+  - Vous ajoutez votre Modificateur de Casting au Dmg de vos Miracles de Damage
+
+
 
 ---
 

@@ -222,6 +222,24 @@ En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood
 | ----- | ------------- | ---------- |
 | Urumi | Action        | Atq        |
 
-En effectuant une Atq, dépensez ne charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour effectuer votre Atq avec une Range doublée, et ajoutez-y 1d4 Dmg.
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour effectuer votre Atq avec une Range doublée, et ajoutez-y 1d4 Dmg.
 
---- 
+---
+
+### Gracefull Slashes
+
+| Arme   | Type d'action | Activation |
+| ------ | ------------- | ---------- |
+| Tessen | Action        | Atq        |
+
+En effectuant une Atq, dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour immédiatement effectueune seconde Atq avec votre deuxième Tessen.
+
+---
+
+### Counter Slash
+
+| Arme      | Type d'action | Activation |
+| --------- | ------------- | ---------- |
+| Cimeterre | Reaction      | Dodge      |
+
+Lorsqu'une Atq en mêlée vous manque, vous pouvez dépensez une charge de [Tours de Force](/Faith-and-Blood/Basic_rules/Equipement.md#tours-de-force) pour effectuer une Atq contre l'Attaquant.

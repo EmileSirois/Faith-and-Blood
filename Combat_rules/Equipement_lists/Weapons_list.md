@@ -17,13 +17,14 @@
 | Hache               | 1d8 Slashing     | [Heavy(3), Versatile(1d10)](Weapon_property_list.md)                      | [Cleave](./Tours_de_Force_list.md#cleave)                                   |
 | Rapière             | 1d8 Piercing     | [Finesse](Weapon_property_list.md)                                        | [Riposte](Tours_de_Force_list.md#riposte)                                   |
 | Falchion            | 1d8 Slashing     | [Crushing, Heavy(3)](Weapon_property_list.md)                             | [Heavy Hit](Tours_de_Force_list.md#heavy-hit)                               |
-| Cimeterre           | 1d6 Slashing     | [Light, Finesse](Weapon_property_list.md)                                 | -                                                                           |
+| Cimeterre           | 1d6 Slashing     | [Light, Finesse, Dual Weapon](Weapon_property_list.md)                    |[Counter Slash](Tours_de_Force_list.md)                                                                            |
 | Épée courte         | 1d6 Slashing     | [Light, Finesse](Weapon_property_list.md)                                 | [Off Hand Blow](Tours_de_Force_list.md#off-hand-blow)                       |
 | Épée longue         | 1d8 Slashing     | [Versatile(1d10)](Weapon_property_list.md)                                | [Defensive Posture](Tours_de_Force_list.md#defensive-posture)               |
 | Masse               | 2d6 Bludgeoning  | [Heavy(5), Two-Handed](Weapon_property_list.md)                           | -                                                                           |
 | Hallebarde          | 1d10 Slashing    | [Heavy(4), Two-Handed, Reach](Weapon_property_list.md)                    | [Hold The Line](Tours_de_Force_list.md#hold-the-line)                       |
 | Sabre de Cavalerie  | 1d8 Slashing     | [Protection(1)](Weapon_property_list.md)                                  | -                                                                           |
-| Urumi               | 1d6 Slashing     | [Light, Finesse, reach](Weapon_property_list.md)                          | [Whirling Blade]()                                                              |
+| Urumi               | 1d6 Slashing     | [Light, Finesse, reach](Weapon_property_list.md)                          | [Whirling Blade](Tours_de_Force_list.md#whirling-blade)                     |
+| Tessen              | 1d4 Slashing     | [Light, Finesse, Dual Weapon](Weapon_property_list.md)                    | [Gracefull Slashes](Tours_de_Force_list.md#gracefull-slashes)               |
 
 ### Armes à Distance:
 
