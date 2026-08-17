@@ -40,18 +40,24 @@ Le Seer est un _full Caster_ d'incantations et il utilise son intelligence comme
 
 Le Seer obtiens un nombre de charges de **Divination** équivalent à son modificateur d'intelligence +1, qu'il peut dépenser pour utiliser les habilitées ci-bas. Le Seer regagne toutes ses charges de **Divination** après un repos.
 
-- ##### Augure (1 charge)
-  - Rituel prenant 1 minute.
-  - Le seer consulte son catalyste mystique afin de chercher un item/personne/endroit, et se fait guider par son catalyste vers la chose recherchée.
-  - Le seer doit connaître l'apparence complète de la chose recherchée.
-- ##### Prévision Défensive (1 charge)
-  - incantation prenant 1 action mystique.
-  - Le seer prédit de façon infaillible la prochaine action prise par une cible.
-  - Le seer doit voir sa cible.
-- ##### Prévision Offensive (1 charge)
-  - incantation prenant 1 action mystique.
-  - Le seer prédit les mouvents de sa cible pour obtenir un Avantage sur sa prochaine attaque contre sa cible. Il peut aussi décider de donner la vision du futur à un allié. Cet allié aura avantage sur sa prochaine attaque à la place du Seer.
-  - Le seer doit voir sa cible.
+**Augure** (1 charge)
+
+- Rituel prenant 1 minute.
+- Le seer consulte son catalyste mystique afin de chercher un item/personne/endroit, et se fait guider par son catalyste vers la chose recherchée.
+- Le seer doit connaître l'apparence complète de la chose recherchée.
+
+**Prévision Offensive** (1 charge)
+
+- incantation prenant 1 action mystique.
+- Le seer prédit les mouvents de sa cible pour obtenir un Avantage sur sa prochaine attaque contre sa cible. Il peut aussi décider de donner la vision du futur à un allié. Cet allié aura avantage sur sa prochaine attaque à la place du Seer.
+- Le seer doit voir sa cible.
+
+**Glimpse Beyond** (1 Charge)
+
+- **Incantation — Réaction**
+- Le Seer peut utiliser **Glimpse Beyond** après la résolution d'un Tour, d'une Action, d'une Réaction ou d'un Saving Throw, en dépensant une Réaction et 1 charge de Divination.
+- Le Seer reçoit une vision infaillible de la prochaine Action effectuée par une créature qu'il voit.
+- Après avoir reçu cette vision, le Seer peut transmettre celle-ci directement à l'esprit d'une créature qu'il voit en dépensant 1 charge supplémentaire de Divination.
 
 ##### Voyant
 
@@ -63,7 +69,15 @@ Lorsque le rituel se termine et que la question à été posée, Le seer doit pr
 
 ---
 
-#### Niveau 2 : Incantations Supplémentaires :
+#### Niveau 2 : Incantations Supplémentaires + Class Feature :
+
+##### Incantations Supplémentaires :
+
+À déterminer (Vous pouvez choisir 2 Incantations supplmentaires dans la liste d'incantations)
+
+##### Prescience
+
+Le Seer obtient un **Reaction Token** supplémentaire à chaque Round.
 
 ---
 

@@ -9,6 +9,7 @@ Le Wardancer est un _Melee striker_ et un _Dodge Specialist_, se concentrant sur
 Modificateur de PV : 3
 Jets de sauveguarde : Le magus est profiscient dans les jets de sauveguarde d'Agilité et de Charisme.
 _Skills_: Acribatics, Persuasion, Performance.
+Armes Agiles : Le magus est profiscient avec toutes les armes possédant la propriété [Finesse](../../Combat_rules/Equipement_lists/Weapon_property_list.md)
 
 ### Casting
 
@@ -30,7 +31,7 @@ Le Wardancer est un non-caster de Miracle, il ne peut donc qu'apprendre des mira
 
 ### Features
 
-#### Niveau 1 : Class FeatureWardance
+#### Niveau 1 : Class Feature
 
 ##### Wardance
 
@@ -42,7 +43,7 @@ Avec une Action Mystique et en dépensant une charge de Wardance, le Magus peut 
 
 - Tant que le Magus ne porte pas d'armure, sa classe d'armure est équivalente à (10 + Modificateur d'Agilité + Modificateur de Charisme)
 - Le bonus de Charactéristique du Magus pour le Dmg d'armes est calculé avec son Agilité
-- La vitesse de mouvement du Magus est augmentée de (5 \* Modificateur de Charisme)
+- La vitesse de mouvement du Magus est augmentée de (5 \* Bonus de Profiscience)
 - Lorsque le Magus touche avec une Atq, il ajoute 1 compteur de **Grâce**
 
 ##### Grâce
@@ -56,17 +57,29 @@ Les compteurs de Grâce peuvent être utilisés sur les habilitées suivantes (l
 - Gracefull Strike (x)
   - En touchant evac une Atq, vous dépensez X nombre de compteurs de Grâce, et vous ajoutez xd4 dmg à l'atq
 - Gracefull retreat (1)
-  - En prennant l'Action de Bouger, vous évitez toute Atq faites contre vous
+  - En prennant l'action Bouger, vous pouvez dépensez une Grâce, et jusquà la fin de ce mouvement, les Atq faiets contre vous sont faiets avec désavantage.
 - Unexpected Hit (2)
   - Avec une action mystique. vous effectuez une Atq à mains nue en utilisant votre Agilité, si l'Atq touche, vous infligez (1d4 + Modificateur d'Agilité ) Bludgeoning Dmg à la cible, et elle doit reussir un ST de constitution (10 + Charisme), sinon quoi elle est affecté par la condition [Faltered](../../Combat_rules/Conditions.md#faltered) (1)
 
 ---
 
-#### Niveau 2 :
+#### Niveau 2 : Actions Supplémentaires
+
+Le Wardancer ajoute les prochaines Actions à son **AP** :
+
+- **Attaquer**
+- **Mouvement**
 
 ---
 
-#### Niveau 3 :
+#### Niveau 3 : Combinaison + Class Feature
+
+Le Magus obtiens la Combinaison **Flowing Step**.
+**Flowing Step** : Après avoir réussi une Atq de mêlée, le Wardancer peut immédiatement effectuer une Action de Mouvement. Ce Mouvement ne provoque pas d'Atq d'opportunité de la part de la cible touchée.
+
+##### Helm of Glamour
+
+Lorsque Vous êtes dans votre Wardance et qu'une action effectuée vous oblige à faire un ST mental (Intelligence, foi, Charisme, Volonté), vous pouvez dépenser une Réaction et 2 points de Grâce pour ajoutez votre modificateur de Charisme à ce jet de sauvegarde.
 
 ---
 
