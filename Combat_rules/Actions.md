@@ -25,4 +25,4 @@ La plupart des _Pathes_, en montant de niveau, obtiendront des action de base su
 
 ### Combination d'actions:
 
-Certains _Pathes_ obtiendront des traits appelée des **combinaisons**, un duo ou trio d'actions qui peuvent être prises dans un même **cycle**. Par exemple, un **Magus** sur le _Path_ du Voleur obtiens la **combination** "Attaque Mobile", lui permettant d'attaquer et de bouger en un cycle.
+Certains _Pathes_ obtiendront des traits appelée des **combinaisons**, un duo ou trio d'actions qui peuvent être prises dans un même **cycle**. Par exemple, un Magus sur le Path du [Wardancer](../Pathes/Path%20du%20Wardancer/Wardancer.md) obtiens la Combinaison Flowing Step, qui lui permet de bouger arprès avoir touché avec une Atq.

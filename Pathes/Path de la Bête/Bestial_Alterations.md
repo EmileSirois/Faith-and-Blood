@@ -10,3 +10,4 @@
 | Tiger's Claws    | Vous donne une arme naturelle (1d8, [Rending](../../Combat_rules/Equipement_lists/Weapon_property_list.md))            |
 | Viper'S Fangs    | Vous donne un Tour de Force Naturelle : [Venom Bite](../../Combat_rules/Equipement_lists/Tours_de_Force_list.md)       |
 | Greyhound's Legs | Augmente votre vitesse de mouvement de 15 pieds                                                                        |
+| Bloodhond's Nose | Vous permet de faire vos Rolls de Traque avec Avantage lorsque vous sentez une cible de Traque                         |

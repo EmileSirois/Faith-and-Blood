@@ -94,3 +94,7 @@ La créature prend 1d6 Poison Dmg a la fin de chaque round, Selon le point d'ent
 La conditoin Poisinned peut être retirée par des [Soins Médians](../Basic_rules/Health.md#niveaux-de-soins)
 
 ---
+
+### Terrified
+
+La créature doit le plus rapidement utiliser son mouvement pour s'enfuir de la source de sa terreur. Toutes les Atq faites contre la source de Terreur sont faites avec désavantage. 

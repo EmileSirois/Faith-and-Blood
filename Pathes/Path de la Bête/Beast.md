@@ -10,7 +10,7 @@ Modificateur de PV : 3
 Entraînement aux armes simples : Le Magus est profiscient avec les armes simples.
 Entraînement aux armures légères : Le Magus est profiscient avec les armures légères
 Jets de sauveguarde : Le magus est profiscient dans les jets de sauveguarde d'Agilité, de force et de Constitution.
-_Skills_: perception, discretion, survie.
+_Skills_: perception, réflexes, survie.
 
 ### Casting
 
@@ -40,7 +40,7 @@ La Beast n'est pas un Caster, il ne peut donc qu'apprendre des incantations de n
 
 Le Magus sur le Path de la Beast à la capacité de modifier son corps selon l'apparence et les capacités des bêtes sauvages.
 
-À la fin d'un Repos , le Magus peut choisir un nombre d'altérations parmis la liste des altérations disponibles à son niveau. Des nouvelles altérations sont disponibles au niveau 4 et 7. Au premier niveau, les altérations de premier niveau sont disponibles. Les altérations de niveau 2 sont disponibles au niveau 4 et les altérations de niveau 3 sont disponibles au niveau 7. Le Magus peut être affecté par un nombre d'altérations équivalent à :
+À la fin d'un Repos ou avec une Action Mystique , le Magus peut choisir un nombre d'altérations parmis la liste des altérations disponibles à son niveau. Des nouvelles altérations sont disponibles au niveau 4 et 7. Au premier niveau, les altérations de premier niveau sont disponibles. Les altérations de niveau 2 sont disponibles au niveau 4 et les altérations de niveau 3 sont disponibles au niveau 7. Le Magus peut être affecté par un nombre d'altérations équivalent à :
 
 | Niveau | Capacité d'alterations |
 | ------ | ---------------------- |
@@ -60,27 +60,51 @@ Pour la liste complète des altérations, référez vous au document des [altér
 
 ##### Sharp Instincts
 
-###### Les sens du Magus sont à l'affus, prêt à réagir aux moindres bruits.
+###### Les sens du Magus sont à l'affût, prêt à réagir aux moindres bruits.
 
-Vous faites vos checks associés avec vos sens avec profiscience, et vous ne pouvez pas être surpris.
-
----
-
-#### Niveau 2 :
+Vous ne pouvez pas être surpris par une créature hostile,
 
 ---
 
-#### Niveau 3 :
+#### Niveau 2 : Actions Supplémentaires
+
+Le Magus ajoute les prochaines Actions à son **AP** :
+
+- **Attaquer**
+- **Mouvement**
+
+---
+
+#### Niveau 3 : Combinaison
+
+Le Magus obtiens la Combinaison **Pounce**.
+**Pounce** : Vous utilisez une Action de Mouvement pour vous projeter sur une cible se trouvant à une distance plus petite ou équivalente à votre Mouvement, et vous effectuez un Check d'athlétisme. Si le résultat du Check est suppérieur ou égal à l'AC de la cible, vous pouvez utiliser une Action Attaquer pour effectuer une Atq contre celle-ci.
 
 ---
 
 #### Niveau 4 : Class Feature
 
-##### Animalistic Tactics
+##### Bestial Possession
 
-###### La bête se projette violament sur son adversaire, et lui arrache violement la trachée, d'un mouvement précis et décisif
+###### La bête est soudainement possédée d'une énergie mystique ancienne et puissante, renforçant ses charactéristiques bestialles, la rendant encore plus dangereuse et adaptable.
 
----
+Avec une Action Mystique, vous pouvez forcer un esprit bestial à posséder votre corps, vous octroyant ses charactéristiques, ses forces, et ses faiblesses. Vous pouvez changer d'esprit avec une action Mystique. Vous pouvez utiliser **Bestial Possession** un nombre de fois par repos équivalent à votre modificateur de Volonté, et vous avez accès aux esprits suivants :
+
+- Skulking Raven
+  - Vous êtes possédés par l'esprit d'un discret Corbeau, capable de se fondre à la nuit et d'en tirer un maximal avantage. Les ombres semblent se coller à vous, et vous prenez une teinte sombre, prêt à l'embusquade.
+  - Lorsque vous possédez la condition Invisible, la première Atq que vous effectuez sur une créature sera immédiatement critique si elle touche.
+- Resilient Bear
+  - Vous êtes possédés par l'esprit d'un inébranlable Ours, capable de rsister aux plus difficiles conditions et brutalités. Vous gagnez en taille et en masse, et vous vous préparez mentalement à revevoir la charge sans broncher.
+  - Lorsqu'un ennemi vous oblige à faire un ST physique, vous le faites avec avantage.
+  - Chaque instance de dégât physique est réduit de 1.
+- Rampaging \_
+  - Vous êtes possédés par l'esprit d'un \_
+  - Lorsque vous faites une Atq contre une créature possédant des [Stacks de Bleed](../../Combat_rules/Conditions.md#bleeding), vous ajoutez un bonus à l'Atq équivalent à (nombre de stacks de bleed) sur la cible.
+  - Vous obtenez une action spéciale appelée **Exsanguinate** : Action mystique, vous retirez immédiatement touts les stacks de Bleeding sur une cible. Chaque Stack de Bleeding retiré ainsi inflige 1d6 Slashing dmg à la cible.
+- Pursuing Wolf
+  - Vous êtes possédés par l'esprit du Loup infatiguable, capable de traquer sa poie sur des kilomètres. Votre posture s'incline vers l'avant et vos sens de chasseurs s'aiguisent, prêt à la chasse.
+  - Lorsqu'une créature quitte votre portée de mêlée, vous pouvez immédiatement utiliser une action de mouvement pour la suivre dans son mouvement. Vous pouvez tout de même effectuer une Atq d'opportunité sur la cible à la fin du mouvement.
+  - Vous obtenez une action spéciale appelée **Horrifying Howl** : Action mystique, vous hurlez à la lune de façon terrifiante. Une créature de votre choix dans une portée de 15 pieds doit reussir un ST de Volonté (10 + Force), sinon quoi elle est Terrified jusqu'à la fin de son prochain tour.
 
 #### Niveau 5 : Archetype Feature
 
