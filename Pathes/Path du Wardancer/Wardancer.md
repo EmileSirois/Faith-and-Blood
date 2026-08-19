@@ -6,7 +6,7 @@ Le Wardancer est un _Melee striker_ et un _Dodge Specialist_, se concentrant sur
 
 ### Profiscience
 
-Modificateur de PV : 3
+Modificateur de PV : 2
 Jets de sauveguarde : Le magus est profiscient dans les jets de sauveguarde d'Agilité et de Charisme.
 _Skills_: Acribatics, Persuasion, Performance.
 Armes Agiles : Le magus est profiscient avec toutes les armes possédant la propriété [Finesse](../../Combat_rules/Equipement_lists/Weapon_property_list.md)

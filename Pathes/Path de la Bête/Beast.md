@@ -6,7 +6,7 @@ le MAgus sur le _Path_ de la Beast est un _Melee Striker_ et un _Ability caster_
 
 ### Profiscience
 
-Modificateur de PV : 3
+Modificateur de PV : 4
 Entraînement aux armes simples : Le Magus est profiscient avec les armes simples.
 Entraînement aux armures légères : Le Magus est profiscient avec les armures légères
 Jets de sauveguarde : Le magus est profiscient dans les jets de sauveguarde d'Agilité, de force et de Constitution.
