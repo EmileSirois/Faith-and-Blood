@@ -67,94 +67,18 @@ Le bonus d'attaque des Incnatations et Miracles est déterminé par la statistiq
 
 Lorsqu'une incantation ou un rituel impose un jet de sauvegarde à un ennemi/allié, la difficulté de ce jet est calculée avec le **Bonus d'attaque** du Magus. Le calcul est : 10 + **Bonus d'attaque**. Par exemple, une Magus avec 8 d'intelligence aurait un **Save Dc** de 18.
 
-### Tables de Progression de Mana
-
-#### Full Caster
-
-| Niveau de Magus | Mana Total |
-| --------------- | ---------- |
-| 1               | 3          |
-| 2               | 4          |
-| 3               | 6          |
-| 4               | 8          |
-| 5               | 10         |
-| 6               | 12         |
-| 7               | 14         |
-| 8               | 16         |
-| 9               | 20         |
-
 ---
 
-#### Half Caster
+### Table de référence — Progression de la magie
 
-| Niveau de Magus | Mana Total |
-| --------------- | ---------- |
-| 1               | 1          |
-| 2               | 2          |
-| 3               | 3          |
-| 4               | 4          |
-| 5               | 5          |
-| 6               | 6          |
-| 7               | 7          |
-| 8               | 8          |
-| 9               | 10         |
-
-### Table de progression de niveau de Magie
-
-#### Incantations
-
-| Niveau de Magus | Niveau d'Incantaions Disponible | Niveau d'Empowering |
-| --------------- | ------------------------------- | ------------------- |
-| 1               | 1                               | 1                   |
-| 2               | 1                               | 1                   |
-| 3               | 2                               | 2                   |
-| 4               | 2                               | 2                   |
-| 5               | 3                               | 3                   |
-| 6               | 3                               | 3                   |
-| 7               | 4                               | 4                   |
-| 8               | 4                               | 4                   |
-| 9               | 5                               | 5                   |
-
-#### Half Caster Incantation
-
-| Niveau de Magus | Niveau d'Incantaions Disponible | Niveau d'Empowering |
-| --------------- | ------------------------------- | ------------------- |
-| 1               | 1                               | 1                   |
-| 2               | 1                               | 1                   |
-| 3               | 1                               | 2                   |
-| 4               | 1                               | 2                   |
-| 5               | 2                               | 2                   |
-| 6               | 2                               | 3                   |
-| 7               | 2                               | 3                   |
-| 8               | 3                               | 3                   |
-| 9               | 3                               | 4                   |
-
----
-
-#### Miracle
-
-| Niveau de Magus | Niveau de Miracle Disponible | Niveau de Manifestation |
-| --------------- | ---------------------------- | ----------------------- |
-| 1               | 1                            | 1                       |
-| 2               | 1                            | 2                       |
-| 3               | 2                            | 3                       |
-| 4               | 2                            | 4                       |
-| 5               | 3                            | 5                       |
-| 6               | 3                            | 6                       |
-| 7               | 4                            | 7                       |
-| 8               | 4                            | 8                       |
-| 9               | 5                            | 9                       |
-
-#### Half Caster Miracle
-
-| Niveau de Magus | Niveau de Miracle Disponible | Niveau de Manifestation |
-| --------------- | ---------------------------- | ----------------------- |
-| 1               | 1                            | 1                       |
-| 2               | 1                            | 2                       |
-| 3               | 1                            | 2                       |
-| 4               | 1                            | 3                       |
-| 5               | 2                            | 3                       |
-| 6               | 2                            | 4                       |
-| 7               | 2                            | 4                       |
-| 8               | 3                            | 5                       |
-| 9               | 3                            | 6                       |
+| Niveau | **Full Caster** Mana | **Half Caster** Mana | **Full Caster** Incantation | **Half Caster** Incantation | **Full Caster** Empowering | **Half Caster** Empowering | **Full Caster** Miracle | **Half Caster** Miracle | **Full Caster** Manifestation | **Half Caster** Manifestation |
+| :----: | :------------------: | :------------------: | :-------------------------: | :-------------------------: | :------------------------: | :------------------------: | :---------------------: | :---------------------: | :---------------------------: | :---------------------------: |
+| **1**  |          3           |          1           |              1              |              1              |             1              |             1              |            1            |            1            |               2               |               1               |
+| **2**  |          4           |          2           |              1              |              1              |             1              |             1              |            1            |            1            |               2               |               2               |
+| **3**  |          6           |          3           |              2              |              1              |             2              |             2              |            2            |            1            |               3               |               2               |
+| **4**  |          8           |          4           |              2              |              1              |             2              |             2              |            2            |            1            |               4               |               3               |
+| **5**  |          10          |          5           |              3              |              2              |             3              |             2              |            3            |            2            |               5               |               3               |
+| **6**  |          12          |          6           |              3              |              2              |             3              |             3              |            3            |            2            |               6               |               4               |
+| **7**  |          14          |          7           |              4              |              2              |             4              |             3              |            4            |            2            |               7               |               4               |
+| **8**  |          16          |          8           |              4              |              3              |             4              |             3              |            4            |            3            |               8               |               5               |
+| **9**  |          20          |          10          |              5              |              3              |             5              |             4              |            5            |            3            |               9               |               6               |

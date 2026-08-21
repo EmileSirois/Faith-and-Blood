@@ -2,7 +2,7 @@
 
 ### Overview
 
-Le Sharpshooter est un _Striker longue Distance_ et un _Burst Dmg Specialist_, se concentrant sur les dégâts avec les armes à feu, la Utility et le debuff. La statistique principale du Sharpshooter est l'Agilité, et il utilise sa Foi pour utiliser ses habiletées et ses miracles.
+Le Sharpshooter est un _Striker longue Distance_ et un _Burst Dmg Specialist_, se concentrant sur les dégâts avec les armes à feu et la Utility. La statistique principale du Sharpshooter est l'Agilité, et il utilise sa Foi pour utiliser ses habiletées et ses miracles. À haut niveau, le Sharpshooter est un véritable _Glass canon_, capable de tuer toute cible avant qu'elle ne l'ateigne. 
 
 ### Profiscience
 
@@ -13,6 +13,8 @@ Jets de sauveguarde :
 _Skills_:
 
 ### Casting
+
+Le Sharpshooter est un **Half-Caster de miracles**, il utilise donc sa Foi pour cast. Fiez vous à la [table de progression de Caster](../../Basic_rules/Casting.md#table-de-référence--progression-de-la-magie) pour déterminer votre mana, le niveau connu de vos miracles et votre niveau de [manfestation](../../Basic_rules/Casting.md#manifesting-miracles)
 
 ### Path progression
 
@@ -34,7 +36,7 @@ _Skills_:
 
 ##### Blessed Shot
 
-###### flavor text
+###### Le sharphooter glisse une balle dans le cylindre de son fusil, en murmurant des prières à quleconque dieux voudrait l'aider. Des inscriptions apparaissent sur la munition, l'enchantant d'une puissance divine considérable.
 
 Blessed Shot est un Miracle exclusif au Sharpshooter :
 
@@ -45,9 +47,18 @@ Miracle de niveau 1
 **Durée** : Jusqu'à Atq
 **Concentration** : Non
 
-En prennant l'action **Reload** ou **Cycle** avec une arme à feu, vous pouvez cast Blessed shot, qui ajoute 2d8 Radiant Dmg à l'atq qui touche avec la balle choisie. Si le **reload** inclue plusieurs balles, vous pouvez cast Blessed shot sur plus qu'une balle.
+En prennant l'action **Reload** ou **Cycle** avec une arme à feu, vous pouvez cast Blessed shot, qui ajoute 2d8 Radiant Dmg à l'atq qui touche avec la balle choisie. Si le **reload** inclut plusieurs balles, vous pouvez cast Blessed shot sur plus qu'une balle.
 
-Chaque niveau de Manifestion au dessus de 1 ajoute 1d8 Dmg à la balle choisie.
+Chaque niveau de Manifstion au dessus de 1 ajoute 1d8 Dmg à la balle choisie.
+
+##### Guide my Aim
+
+Le Sharpshooter possède des charges de Guidance équivalent à sa Foi, qu'il peut dépenser pour effectuer les actions suivantes :
+
+- Seek them out
+  - réaction pouvant être utilisée lorsqu'un ennemi est à couverture , caché ou invisible. Dépemnsez une charge de Guidance et une réaction pour révéler toutes créatures cachées, invisibles ou à couverture, vous pouvez les voir normalement à travers de la couverture, et vous les voyez normalement lorsqu'elles sont invisibles.
+- Guided Shot
+  - Action pouvant être prise avant une Atq, dépensez une charge de Guidance pour ajouter (Modificateur de Foi) au résultat de l'Atq.
 
 ---
 
