@@ -7,3 +7,39 @@ Tous les personnages possèdent un chemin, qui détermine leurs habiletés et ta
 ### Talents:
 
 Chaque 3 Niveau sur un chemin, un Magus débloque un choix de Talent. Les talents sont variés et peuvent influencer l’efficacité d’un personnage dans de nombreux aspects. Les talents d’un Magus raffinent les aspects déjà puissants d’un Magus, et peuvent aussi diminuer ses faiblesses.
+
+### Tableau des Pathes possibles
+
+| Nom          | Charactéristique principale/secondaire | archétypes               | Overview |
+| ------------ | -------------------------------------- | ------------------------ | -------- |
+| Beast        | Force/Constitution                     | Melee Striker            |          |
+| Brawler      | Force/Intelligence                     | Melee Striker/Controller |          |
+| Hunter       | Agilité/intelligence                   | Long Range Striker       |          |
+| Sharpshooter | Agilité/Foi                            | Long Range Striker       |          |
+| Wardancer    | Agilité/Charisme                       | Melee Striker            |          |
+| Grave Digger | Intelligence/Volonté                   | Summoner                 |          |
+| Seer         | Intelligence                           | Full Caster              |          |
+| Croyant      | Foi                                    | Full Caster              |          |
+| Fanatique    | Foi/Force                              | Melee Striker            |          |
+| Storm Chaser | Volonté/Force                          | Ability Caster           |          |
+
+### Explication des colonnes
+
+#### Charactéristique principale / Secondaire
+
+La charactéristique principale est celle avec laquelle le Magus utilise ses habiletées, ses armes ou ses Sorts. La charactéristique secondaire représente généralement une partie secondaire du _kit_ du Path.
+
+#### Archétype
+
+L'archétype d'un Path est un résumé très bref de comment il est joué, et ce sur quoi ses features se concentrent. Voici la liste des Archétypes possibles :
+
+- Melee Striker
+  - Se concentre sur les Dmg et la survivabilité en mêlée.
+- Long Range Striker
+  - Se concentre sur le Dmg à longue dstance et rester à distance.
+- Full Caster
+  - Se concentre sur l'utilisation de Miracles/incantations et la utility
+- Summoner
+  - Se concentre sur l'utilisation de Summons, des créatures sous leurs contrôle.
+- Controller
+  - Se concentre sur le Debuff des ennemis, le contrôle de mouvement et la réduction des performances ennemies.

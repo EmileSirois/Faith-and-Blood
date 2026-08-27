@@ -2,7 +2,7 @@
 
 ### Overview
 
-Le Brawler est un _Melee Striker_ et un _Distruptor_, se concentrant sur son habileté à rester en combat pour des longues périodes de temps en serrant les dents et en empêchant ses ennemis de se déplacer, attaquer et utiliser des actions mystiques facilement. La charactéristique principale du Brawler est la Force, avec un focus particulier sur les [Tours de Force](../../Basic_rules/Equipement.md#tours-de-force) et il utilise sa volonté pour rester en vie. Le Brawler utilise ses Underhanded Tactics pour contrôler le champs de bataille avec une diversité de _Debuffs_, et il utilise des objets innatendus pour créer des opportunitées et avantages. À heut niveau, le Brawler est un problème récurrent pour ses ennemis, une force capable de mettre des bâtons dans roues ne nimporte quel plan.
+Le Brawler est un _Melee Striker_ et un _Controller_, se concentrant sur son habileté à rester en combat pour des longues périodes de temps en serrant les dents et en empêchant ses ennemis de se déplacer, attaquer et utiliser des actions mystiques facilement. La charactéristique principale du Brawler est la Force, avec un focus particulier sur les [Tours de Force](../../Basic_rules/Equipement.md#tours-de-force) et il utilise sa volonté pour rester en vie. Le Brawler utilise ses Underhanded Tactics pour contrôler le champs de bataille avec une diversité de _Debuffs_, et il utilise des objets innatendus pour créer des opportunitées et avantages. À heut niveau, le Brawler est un problème récurrent pour ses ennemis, une force capable de mettre des bâtons dans roues ne nimporte quel plan.
 
 ### Profiscience
 
