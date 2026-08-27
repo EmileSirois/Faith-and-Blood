@@ -56,7 +56,7 @@ Le Seer obtiens un nombre de charges de **Divination** équivalent à son modifi
 
 - **Incantation — Réaction**
 - Le Seer peut utiliser **Glimpse Beyond** après la résolution d'un Tour, d'une Action, d'une Réaction ou d'un Saving Throw, en dépensant une Réaction et 1 charge de Divination.
-- Le Seer reçoit une vision infaillible de la prochaine Action effectuée par une créature qu'il voit.
+- Le Seer reçoit une vision infaillible de l'intentention de la cible (Ce qu'elle va faire au prochain tour).
 - Après avoir reçu cette vision, le Seer peut transmettre celle-ci directement à l'esprit d'une créature qu'il voit en dépensant 1 charge supplémentaire de Divination.
 
 ##### Voyant

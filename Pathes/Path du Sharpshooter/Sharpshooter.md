@@ -2,7 +2,7 @@
 
 ### Overview
 
-Le Sharpshooter est un _Striker longue Distance_ et un _Burst Dmg Specialist_, se concentrant sur les dégâts avec les armes à feu et la Utility. La statistique principale du Sharpshooter est l'Agilité, et il utilise sa Foi pour utiliser ses habiletées et ses miracles. À haut niveau, le Sharpshooter est un véritable _Glass canon_, capable de tuer toute cible avant qu'elle ne l'ateigne. 
+Le Sharpshooter est un _Striker longue Distance_ et un _Burst Dmg Specialist_, se concentrant sur les dégâts avec les armes à feu et la Utility. La statistique principale du Sharpshooter est l'Agilité, et il utilise sa Foi pour utiliser ses habiletées et ses miracles. À haut niveau, le Sharpshooter est un véritable _Glass canon_, capable de tuer toute cible avant qu'elle ne l'ateigne.
 
 ### Profiscience
 
@@ -62,7 +62,15 @@ Le Sharpshooter possède des charges de Guidance équivalent à sa Foi, qu'il pe
 
 ---
 
-#### Niveau 2 :
+#### Niveau 2 : Actions supplémentaires + Class Feature
+
+##### Perfect Positioning
+
+Lorsque le Sharpshooter se retrouve dans un positionnement avantageux, il obtiens +2 au résultat de ses Atq et à son Dmg avec les Armes à feu. Le positionnement avantageux inclut :
+
+- Avoir le high ground
+- Être affecté par la condition Invisible
+-
 
 ---
 
