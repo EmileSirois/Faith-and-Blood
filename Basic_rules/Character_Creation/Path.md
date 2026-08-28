@@ -10,18 +10,18 @@ Chaque 3 Niveau sur un chemin, un Magus débloque un choix de Talent. Les talent
 
 ### Tableau des Pathes possibles
 
-| Nom          | Charactéristique principale/secondaire | archétypes               | Overview |
-| ------------ | -------------------------------------- | ------------------------ | -------- |
-| Beast        | Force/Constitution                     | Melee Striker            |          |
-| Brawler      | Force/Intelligence                     | Melee Striker/Controller |          |
-| Hunter       | Agilité/intelligence                   | Long Range Striker       |          |
-| Sharpshooter | Agilité/Foi                            | Long Range Striker       |          |
-| Wardancer    | Agilité/Charisme                       | Melee Striker            |          |
-| Grave Digger | Intelligence/Volonté                   | Summoner                 |          |
-| Seer         | Intelligence                           | Full Caster              |          |
-| Croyant      | Foi                                    | Full Caster              |          |
-| Fanatique    | Foi/Force                              | Melee Striker            |          |
-| Storm Chaser | Volonté/Force                          | Ability Caster           |          |
+| Nom                                                                     | Charactéristique principale/secondaire | archétypes               | Overview |
+| ----------------------------------------------------------------------- | -------------------------------------- | ------------------------ | -------- |
+| [Beast](../../Pathes/Path%20de%20la%20Bête/Beast.md)                    | Force/Constitution                     | Melee Striker            |          |
+| [Brawler](../../Pathes/Path%20du%20Brawler/Brawler.md)                  | Force/Intelligence                     | Melee Striker/Controller |          |
+| [Hunter](../../Pathes/Path%20du%20Chasseur/Chasseur.md)                 | Agilité/intelligence                   | Long Range Striker       |          |
+| [Sharpshooter](../../Pathes/Path%20du%20Sharpshooter/Sharpshooter.md)   | Agilité/Foi                            | Long Range Striker       |          |
+| [Wardancer](../../Pathes/Path%20du%20Wardancer/Wardancer.md)            | Agilité/Charisme                       | Melee Striker            |          |
+| [Grave Digger](../../Pathes/Path%20du%20Grave%20Digger/Grave_digger.md) | Intelligence/Volonté                   | Summoner                 |          |
+| [Seer](../../Pathes/Path%20du%20Seer/Seer.md)                           | Intelligence                           | Full Caster              |          |
+| [Croyant](../../Pathes/Path%20du%20Croyant/Theist.md)                   | Foi                                    | Full Caster              |          |
+| [Fanatique](../../Pathes/Path%20du%20Fanatique/Zealot.md)               | Foi/Force                              | Melee Striker            |          |
+| [Storm Chaser](../../Pathes/Path%20du%20Storm%20Chaser/StormChaser.md)  | Volonté/Force                          | Ability Caster           |          |
 
 ### Explication des colonnes
 
