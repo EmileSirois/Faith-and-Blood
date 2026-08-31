@@ -61,15 +61,34 @@ Le StormChaser ajoute les prochaines Actions dans son **AP**:
 
 ---
 
-#### Niveau 3 : 
+#### Niveau 3 : Combinaison
+
+Le StocmChaser obtiens la combinaison **Lightning Dash**:
+**Lightning Dash** : Le StormChaser peut dépenser une Action Mystique et Bouger pour devenir un éclair qui se déplace immédiatement dans un espace libre qui se trouve dans le champs de vision du StormChaser. La distance de mouvement de Lightning Dash est (15 + Modificateur de Volonté). Les créatures qui sont sur le chemin du Lightning Dash ne peuvent pas faire d'Atq d'opportunité contre vous, mais si vous êtes en mêlée lorsque vous utilisez Lightning Dash, les ennemis se trouvant à portée peuvent effectuer une Atq d'opportunité, avec Désavantage.
 
 ---
 
 #### Niveau 4 : Class Feature
 
-##### Nom
+##### Static Charges
 
-###### Flavor text
+###### Flavot Text
+
+Vous avez la capacité d'absorber l'énergie Mystique autours de vous, et de la transmuter en éléctricité divine. Vous pouvez amasser des compteurs de **Static**, qui vous permettent d'utiliser certaiens habiletées. Vous pouvez emmagasiner des compteurs de **Static** lorsque :
+
+- Vous recevez du Dmg électrique.
+- Vous utilisez une Action Mouvement.
+- Vous infligez du Dmg avec un Miracle du Storm Domain.
+- Vous touchez une cible avec une Atq de mêlée.
+
+Vous pouvez utiliser les habiletées ci-dessous en dépensant des compteurs de **Static** :
+
+- Discharge (x)
+  - Vous dépensez X compteurs de Static en touchant avec une Atq de mêlée, et ajoutez Xd4 Lightning Dmg au total des Dmg de l'Atq.
+- Lightning Reflexes (2)
+  - Lorsque vous faites un Parry Roll, dépensez 2 compteurs de Static pour ajouter (Modificateur de Volonté) au résultat du Roll.
+- Speed Burst (2)
+  - Lorsque vous utilisez une Action de Mouvement, dépensez 2 compteurs de Static pour doubler la distance parcourue par ce mouvement.
 
 ---
 
