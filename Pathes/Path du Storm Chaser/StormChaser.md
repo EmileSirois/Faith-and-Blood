@@ -2,7 +2,7 @@
 
 ### Overview
 
-Le Storm Chaser sont individus qui recherchent le chaos de la tempête déchaînée, qui prennent comfort en sa puissance. Ce sont bien souvent des individus qui, secrêtement, vénèrent le Dieu hérétique Shango, Père de l'Orage. Ces croyances sont originaires d'un continent au sud de l'hémisphère sud du globe, loin au Sud de la citée de **\_**. Ces croyances ont été importées avec les marchand originaires de ces terres, qui prie à Shango pour des vents facilitants leurs voyages.
+Les Storm Chaser sont des individus qui recherchent le chaos de la tempête déchaînée, qui prennent comfort en sa puissance. Ce sont bien souvent des individus qui, secrêtement, vénèrent le Dieu hérétique Shango, Père de l'Orage. Ces croyances sont originaires d'un continent au sud de l'hémisphère sud du globe, loin au Sud de la citée de **\_**. Ces croyances ont été importées avec les marchand originaires de ces terres, qui prie à Shango pour des vents facilitants leurs voyages.
 
 Le Magus sur le Path du Storm Chaser est un _Melee Striker_ et un _Ability Caster_, se concentrant sur le Dmg avec les armes, qui sont amplifiés par ses habiletées reliées à l'éléctricité et à la tempête. La charactéristique principale du Storm Chaser est la Volonté, qu'il utilise pour forcer la tempête à se plier à ses besoins, et la Force, qu'il utilise pour être efficace en mêlée. À haut niveau, le Storm Chaser utilise toute la furie de l'orage divin pour forcer ses ennemis à agir selon sa volonté, un véritable déchaînement de foudre vent et pluie sur le champs de bataille.
 
