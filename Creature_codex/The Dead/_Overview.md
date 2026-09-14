@@ -1,0 +1,9 @@
+# The Dead
+
+### Classification
+
+Les monstruisitées composant les légions du Dead sont des créatures mortes ramenées à la vie par une forte exposition à l'énergie Mystique. Classifiés dans The Dead sont : les morts-vivants, les revenants, les esprits, les fantômes, ect. Toute créature ramenée de force ou par choix de derrière le voile est classifié dans la catégorie du Mort. Bien que toutes ces créaures soient classifiées dans la même catégorie, elles sont diverses et variées dans leurs forces, faiblesses, origines et motivations.
+
+### morts-vivants
+
+Les morts vivants sont des humains décédés, dont le corps à souvent été enterré par mégarde. En effet, il est devenu commun d'incinérer les corps des défunts, pour empêcher le retour ce ceux-ci. Malheureusement, il subsiste de nombreuses cultures où l'incinération des corps est vu comme un affront, ou une destruction de l'âme résidente. C'est pourquoi l'humanité se voit encore assailli par des morts-vivants pensant la nuit, et pourquoi il est primordial pour tout Magus de brûler le corps de toute victime, même si cette action pourrait offenser les proches du défunt. Les morts-vivants sont souvent dépenaillés, pourrisants, et squeletique. Il ne faut cependant pas sous-estimmer leur surprenante vitalité et force, malgré leur apparence faible. Les morts vivants ont tendance à agir en groupe, communiquant de façon mystérieuse entre eux. Ces morts-vivants sont similaire à un vase: un contenant pouvant être rempli, pas d'eau non, mais d'énergie mystique. Ils dépassent les limitations physiques de l'enmagasinement de l'énergie mystique, forçant souvent des mutations imprévisibles chez ces individus particulièrement "pleins". Toute suspicion de morts-vivants doit donc être éliminé le plus rapidement possible, et la source doit être identifiée et détruite.
