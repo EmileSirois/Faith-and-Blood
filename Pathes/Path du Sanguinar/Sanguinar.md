@@ -8,6 +8,8 @@ Le Magus sur le Path du sanguinar est un _Full Caster_ d'incantations et un _Hea
 
 ### Profiscience
 
+Modificateur de PV : 4
+
 ### Casting
 
 Le Sanguinar est un _full Caster_ d'incantations et il utilise son intelligence comme statistique de _casting_. Se fier aux [règles de casting](../../Basic_rules/Casting.md) pour la progression du Mana et des niveaux d'incantation.
